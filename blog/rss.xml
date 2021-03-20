@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:georss="http://www.georss.org/georss"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+     xmlns:media="http://search.yahoo.com/mrss/"><channel>
+  <title>半農網誌</title>
+  <atom:link href="https://waychan.cn/blog/rss.xml" rel="self" type="application/rss+xml" />
+  <link>https://waychan.cn/blog</link>
+  <description><![CDATA[记忆中的杭菊花，采菊桑林下的源头，心中依然记挂。
+  2020年总结，2021年期待，每年都有希望，是很好的事情
+  世说新语中的配角故事，薛勤凭两个问题青史留名。
+  儿子上一年级了，作为家长辅导的任务有些重，一些浅薄的想法。
+  回忆那遥远的旧宅，记忆中的童年生活
+  工作后的冲动离职，而后一次间隔支教，让父亲伤心了。
+  2020年父亲节，记录心中的父亲，感恩他给我带来的一切。
+  做了一辈子农民的父亲的经验之谈，别回农村
+  收集古今中外名人读书法，借鉴之。
+  A colection of website publishing with emacs and orgmode.
+  记录使用 Org Mode 写博客的几次折腾过程，并不详细。]]></description>
+  <language>en</language>
+  <pubDate>Sat, 20 Mar 2021 14:36:40 +0000</pubDate>
+  <lastBuildDate>Sat, 20 Mar 2021 14:36:40 +0000</lastBuildDate>
+  <generator>Emacs 27.1 Org-mode 9.4.4</generator>
+  <webMaster>hi@luweiqiang.com (桑下居)</webMaster>
+  <image>
+    <url>https://waychan.cn/images/feed.png</url>
+    <title>半農網誌</title>
+    <link>https://waychan.cn/blog</link>
+  </image>
+
+
+  <item>
+    <title>「菊坚强」的杭菊往事</title>
+    <link>https://waychan.cn/blog/2021/life-of-hangju.html</link>
+    <author>hi@luweiqiang.com (桑下居)</author>
+    <guid isPermaLink="false">https://waychan.cn/blog/2021/life-of-hangju.html</guid>
+    <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+
+    <description><![CDATA[<p>
+
+    </p>
+
+    <p>
+    前几天看到鱼兄的<a href="https://mp.weixin.qq.com/s/d02Nowk-UPJUmhOLlq8eBw">种菊第4年报告</a>，把我描述成了「菊坚强」，连续三年尝试生态种植杭菊花失败而仍然想要继续，确实有了些「坚强」的意思。然而真正坚持的是我父亲，这几年我只是一点想法，真正操持着田地，在种与不种间徘徊前进的，默默如老黄牛在菊田间奋斗的，只是我父亲。我呢，杭菊只是心中抹不去的故乡景，乡土味，在日复一日办公室生活中，不断回味着。
+    </p>
+
+    <p>
+    田间老三样
+    </p>
+
+    <p>
+    我家所在的乡村是长三角平原中千百个乡村中普普通通的一员，因为太过于平常而默默无闻，就像一个老农民穿着一件寻常衣服，不会有人多看一眼。在这样一个乡村里，有三种农活是一个村民一生中必会经历的：种水稻、接桑苗、采菊花。
+    </p>
+
+    <p>
+    在我的印象里，这三种似乎都是祖祖辈辈传下来的。水稻是为了换口饭吃，依然清晰地记得，很小的时候，父亲推着手推车，车上装了一车的稻谷，我跟在后面，去往十多里地外的某个地方缴粮。桑苗是为了种桑而养蚕，蚕宝宝是我小时候最铁的玩伴了，一年四季都有，然后桑苗也能卖了换钱，还是那辆推车，父亲凌晨天还黑的时候便推一车的桑苗，最远会到近二十里地的镇上去卖桑苗。菊花，大概也是为了换钱，因为虽然菊花茶很清甜而香醇，村里从来没人喝菊花茶。
+    </p>
+
+    <p>
+    这三样农活我都喜欢，很小的时候便开始抢着做了，即便做不好。大概，很小的心中，就明白即使胡乱捣乱，也有父母在那里，他们会默默将事情做好。如果非要选一个，必须是采菊花，因为采完后，还有蒸菊花，会煨番薯，那番薯的香味，比之如今街边的烤番薯，不可同日语。
+    </p>
+
+    <p>
+    杭菊花的一生
+    </p>
+
+    <p>
+    杭菊，又称甘菊，菊科，多年生草本。每年秋冬间枯萎之后，农人们会把茎都割起收好当柴火，把根留田垄里。来年四月清明前后，幼苗长得差不多高了，农人们开始一株株拔起来，在新地田垄里种好，然后像照顾孩子一样打理菊田，直到杭菊花开，采摘完毕，才算心安。
+    </p>
+
+    <div id="outline-container-org3bbf060" class="outline-3">
+    <h3 id="org3bbf060">选苗</h3>
+    <div class="outline-text-3" id="text-org3bbf060">
+    <p>
+    清明前后，看着菊苗长势很好，就开始一株株拔起来备种，当然是选叶盛茎粗的，手拔，往往会把根拔断了，关系不大，曾经苗少的时候，一株菊苗当两株用，中间对半剪，有根的种没根的插扦，成活率也不低。
+    </p>
+    </div>
+    </div>
+
+    <div id="outline-container-orgb0d2131" class="outline-3">
+    <h3 id="orgb0d2131">种菊</h3>
+    <div class="outline-text-3" id="text-orgb0d2131">
+    <p>
+    种菊有讲究。田需要先分垄，每垄宽一到两米，然后每垄的中间用锄头整出一条不深的小沟，把菊苗的根放小沟中，每株间距30公分到半米，放好后小沟统一用泥填平，菊苗根部微微踩实。儿时，无论是锄沟、放苗、填土、踩实，我都挺想做，抢着做，如今想来，算是另类的游戏了。
+    </p>
+    </div>
+    </div>
+
+    <div id="outline-container-orge8cb323" class="outline-3">
+    <h3 id="orge8cb323">压苗</h3>
+    <div class="outline-text-3" id="text-orge8cb323">
+    <p>
+    种好后浇水，认真照看，一两月后，菊苗长得很高了，必须压苗。压苗是个技术活，把菊苗轻轻压下，选好方向，要通盘考虑整个田垄的生长空间，然后放一块泥在菊苗中间部分的茎上，让其自然长出根须。这也是个工夫活，很花时间。压苗后，原本只有一条菊苗的田垄，变成了一片菊苗，等待时间让其长成菊海。这活儿时很少做，没耐心，太花力气，懒。
+    </p>
+    </div>
+    </div>
+
+    <div id="outline-container-org0939610" class="outline-3">
+    <h3 id="org0939610">去头</h3>
+    <div class="outline-text-3" id="text-org0939610">
+    <p>
+    压苗后，菊株又长了，茎上可能已分出好多小苗，大部分在阳光雨水的滋养下长势喜人。要及时去头，剪掉菊苗最上部分的嫩枝，以便更多地开枝散叶，让菊苗长满整个田垄。又是个精细活，要会分辨哪些苗可去头，哪些该留着，而且趴着背，拿剪刀剪，很累人。剪下来的菊苗小枝往往带回家里给湖羊吃。
+    </p>
+    </div>
+    </div>
+
+    <div id="outline-container-orgbf3d22f" class="outline-3">
+    <h3 id="orgbf3d22f">除草</h3>
+    <div class="outline-text-3" id="text-orgbf3d22f">
+    <p>
+    菊田里最怕的是长草，杂草很容易长，长得又快，需要不间断地除草。割草给湖羊吃，是我小时候的家常便饭，但我就不喜欢往菊田里除草，因为如果用镰刀割，一不小心便把菊苗给残害了。菊田中，都是手艺活，需要精心打理。
+    </p>
+    </div>
+    </div>
+
+    <div id="outline-container-org1f1e4de" class="outline-3">
+    <h3 id="org1f1e4de">采菊</h3>
+    <div class="outline-text-3" id="text-org1f1e4de">
+    <p>
+    到了十一月，秋风吹来，菊花盛开了，白茫茫花海一片，颇为壮美，就是采菊的时刻。对农人来说，采菊可见不了南山，每天趴在地里，不说腰酸背痛，那是逞强。但小孩子不一样，奶奶常说「小人没腰，不会疼」，那时候，我从来不腰酸不腰疼，对奶奶的话深信不疑。那个时候，似乎菊花开得晚，采着采着，霜降了，经霜后的菊花，依然傲立，但花朵会变紫，蒸出来的菊饼会变黑，无论模样还是质量都变差，所以采菊是跟时间赛跑，都是在高强度劳作下进行的。
+    </p>
+    </div>
+    </div>
+
+    <div id="outline-container-orgabfa705" class="outline-3">
+    <h3 id="orgabfa705">蒸菊</h3>
+    <div class="outline-text-3" id="text-orgabfa705">
+    <p>
+    采回的菊花先放匾里或者干脆地上，等晚上蒸菊。锅里起一锅水，放上蒸架，家里有传下来的一个个直径二三十公分高五到十公分的小蒸笼，底部精选朵大蕊好的菊朵，下面朝下放平一圈，然后随意放上花朵轻轻震实，最上面再精选好的花朵放一层，花蕊朝上，为的当然是蒸出的菊饼长相可人，能卖个高价。不多久，整个屋子都是菊香，清新而久远。当然，于儿时的我来说，我是最喜烧火的，在灶头拿老桑树的根枝，一根根放灶里，看火苗旺盛，熏得脸红红，而且，我可以拿一个番薯放里面，拿柴灰覆好，等烧一段时间闻到香味了，取出来，虽然外层全是焦灰，里面的番薯，香嫩至极，这是那段采菊时光的别样馈赠。
+    </p>
+    </div>
+    </div>
+
+    <div id="outline-container-orgfa6ec7f" class="outline-3">
+    <h3 id="orgfa6ec7f">晒菊</h3>
+    <div class="outline-text-3" id="text-orgfa6ec7f">
+    <p>
+    乡下少有烘干设备，所以蒸好的菊花，每天都需要拿出来晒太阳，直到晒干。菊花蒸好，是直接倒在用芦苇枝和麦杆做的薕铺上的，宽大概一米多，长可以好几米，底下放着两根竹子，竹子和铺子交接的地方用绳子绑好防止移动。每次蒸，大概能放一铺，然后第二天一早，就抬出屋外放场地上，北侧是条凳，南侧直接放地上，朝南倾斜也是为更好的光照。刚蒸出来的菊花全是水分，一铺子很重，儿时的我可抬不动，每次都是父母抬，直到晒得差不多了，就由我来帮忙。到了初中那会，这活就交给我了，放学回家的重要事，便是将铺子抬进屋，有时候父母很晚回家，轻的铺子自己也就单人拖进屋了。
+    </p>
+
+    <p>
+    花了功夫，看天吃饭
+    </p>
+
+    <p>
+    杭菊能凌冬盛开，傲霜而立，但整个生命过程中，却需要精心照料。于农人而言，哪怕再用心，也的抗不过天气，这是一个看天吃饭的活。江南的台风，过境风大的不多，但带来的雨量，却常年很多。杭菊不耐水淹，这么多年的种菊历程中，被淹的次数不少，水淹久了，等水退去，阳光一照，杭菊是成片成片牺牲的。
+    </p>
+
+    <p>
+    然后就是晒菊阶段的，那时乡间少有烘干装置，每家每户都是在场地上晒菊，走在乡间，都是铺子上一饼饼的菊花，说来也奇怪，那时候白天都在地里干活，没人照看，菊饼却从来不会少。如果这时节遇上下雨天，农人只有呆家里闷闷不乐了。蒸好的菊花不及时晒干很容易发霉，发霉了就等于废了，卖不了价钱，最终可能成为湖羊的食物，全费了功夫。
+    </p>
+
+    <p>
+    今是而昨非
+    </p>
+
+    <p>
+    如今，想着重新种菊，时空却早已变迁。
+    </p>
+
+    <p>
+    大概上大学那会，回家，听父母说菊花不盛开就开始采摘了，自家也不用再蒸了，直接新鲜卖给菊厂。然后，听闻到一个新鲜名词「胎菊」。未盛开的花蕾，像人还在胎中，被商家取了个名字。
+    </p>
+
+    <p>
+    现在，到了采菊季，走在村里，也再不见场地上的薕铺，铺子上的菊饼，只有一辆辆的汽车了。
+    </p>
+    </div>
+    </div>
+    ]]></description>
+</item>
+<item>
+  <title>2021年开始，总结与期待</title>
+  <link>https://waychan.cn/blog/2021/flag-of-2021.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2021/flag-of-2021.html</guid>
+  <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+
+  </p>
+
+  <p>
+  这几年除了工作总结外，就没认真作过个人回顾。曾子曰「吾日三省吾身」，现代很流行的「复盘」概念，都强调回顾与反思的重要性。2020年过去，简单作一个梳理，生活、工作、以及自己所重视的方面。
+  </p>
+
+  <p>
+  2020年回顾
+  </p>
+
+  <p>
+  2020年影响至深的便是遇上了新冠。作为大时代中微不足道的小民，真真切切地感受了一波洪流。
+  </p>
+
+  <div id="outline-container-org105a29a" class="outline-3">
+  <h3 id="org105a29a">工作</h3>
+  <div class="outline-text-3" id="text-org105a29a">
+  <p>
+  总体而言，没什么起色。个人没有向上的心与能力，组织和领导也不会给多少机会，能保证收入已经是万事大吉了。2020年两级领导换人，整体工作风格都有较大调整，加上一些个大环境的影响，琐碎的事情多了不少。
+  </p>
+
+  <p>
+  年初，为疫情的事操心，窗口单位服务不能停，县里镇里又有不少美其名曰「共建」的工作任务，疫情初期的志愿服务花了不少精力。上半年，部门人员不足，比之上一年工作内容加了一块，虽然上级单位上收了些工作，相对而言还是加了不少，压力倍增，有时候想想其实性价比真的低。
+  </p>
+
+  <p>
+  说句白话，目前的工作仅为「稻粱谋」，日复一日重复性的事务性工作，消磨了曾经的万丈豪情，也许仅仅只是因为上有老下有小而勉强为之。这个行业的基层，是十分地去能力化的，不做销售不懂应酬不去钻营，未来的前景是惨淡且清晰可见的，何况在所谓「人工智能」之类科技进步的冲击下，基层一般管理已经可有可无。
+  </p>
+
+  <p>
+  所以工作上并不乐观，且这个年纪似乎已经失去了向上的动力。
+  </p>
+
+  <p>
+  今年考核，评了A等，但收入却又降，应该是唯一一个连续两年下降的了，或许在领导心中也就这个价，基层的现实就是如此，大家都心知肚明，不说破而已。然而内心总是郁郁与不平的。（<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-02-10 Wed&gt;</span></span>补记）
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-orga452824" class="outline-3">
+  <h3 id="orga452824">生活</h3>
+  <div class="outline-text-3" id="text-orga452824">
+  <p>
+  生活还是给了很多欢乐与动力的。
+  </p>
+  </div>
+
+  <div id="outline-container-org2034cd2" class="outline-4">
+  <h4 id="org2034cd2">小棉袄</h4>
+  <div class="outline-text-4" id="text-org2034cd2">
+  <p>
+  4月，又一个小生命来到身边，我的小棉袄、小情人。好在那时疫情已逐步好转，住院期间未遇到什么困难。请了几天假，每天家与医院来回送饭菜，乐此不疲。出生近8斤，一个月12斤，半年近20斤，长得挺快的，胖胖的小脸看不厌。
+  </p>
+
+  <p>
+  取名「其蓁」，出自《诗经・桃夭》，主要是这两个字谐音在家乡方言里意为「美丽」，寓意美好。小名「笑嘻嘻」，希望每天笑口常开。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org66e1a96" class="outline-4">
+  <h4 id="org66e1a96">小学生</h4>
+  <div class="outline-text-4" id="text-org66e1a96">
+  <p>
+  老大下半年上一年级了，又多了个任务，早上送学校。上班比较早，每天早上叫他起床，偶尔还监督洗脸刷牙吃早饭。动作超级墨迹，吃个早饭不催起码半小时，挺无奈也火大。
+  </p>
+
+  <p>
+  下班后负责监督语文作业，又是个伤身的活，没少被气。特别是拼音，因为没上过幼小衔接班，拼音之前没怎么学过，如今上课进度又挺快，每天一课，不回家预习、复习、练习，根本学不会，可怜的小娃。无奈的是，学了N久后，还是连 b d p q 这几个声母都搞不清。我已经记不得当年怎么学的了，以前农村，父母不识字，家里从来不管作业，不知是怎么学会的。
+  </p>
+
+  <p>
+  未来任重而道远。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org39aa22b" class="outline-4">
+  <h4 id="org39aa22b">太极拳</h4>
+  <div class="outline-text-4" id="text-org39aa22b">
+  <p>
+  2月初，感慨于新冠疫情下生命的脆弱，人身的可贵，重拾太极拳练习。连续坚持了三个多月，算是基本达到百日筑基。
+  </p>
+
+  <p>
+  习练的过程中最大的感受是，自己的身体太紧了，无论骨骼还是肌肉，甚至精神都是无比紧张的，这么多年来，曾经的疾病、多年的身心压力，都在不断地改变自己的身体结构，然后在一个脆弱的代偿态下勉强维持着平衡，这便是所谓的「亚健康」了。
+  </p>
+
+  <p>
+  之后是断续的练习，复工之后受工作影响，有时候心态波动太大，往往会寻找一些看似轻松的方式来解压，比如看看网络小说，刷刷抖音之类，最终似乎身体并没有得到应有的休息，停下来之后会更累。反而是偶尔拾起的拳架，多遍之后虽然当时觉得有些累，停下来会有一种轻松感。
+  </p>
+
+  <p>
+  一个「松」字，或许可以追寻一辈子。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org3cd1a51" class="outline-4">
+  <h4 id="org3cd1a51">学习</h4>
+  <div class="outline-text-4" id="text-org3cd1a51">
+  <p>
+  毫无疑问，这是个终生学习的时代。很多人消费着大众的焦虑，强调「学习」，然而真正能「学而习之」的又有多少。我也有不少焦虑，经济的、技能的、未来发展的，也被割过不少韭菜。
+  </p>
+
+  <p>
+  这一年，买了些网络课程，集中在中医，但效果并不好，一来没静下心来学习，时间花的不多，二来课程似乎系统，真实却是比较片面，并不适合无基础小白。我想要深入学习，如果有机会还希望以些为业，所以在下半年下了决心，报了某中医大的三年制周末班，希望善始善终。
+  </p>
+
+  <p>
+  从11月中旬开课，每月两周末，课程内容是中医本科专业课，算是补个科班的背景吧。因为年末疫情以及工作原因，已经缺了三次课，2021年必须珍惜每一次机会。
+  </p>
+
+  <p>
+  2021年期待
+  </p>
+
+  <p>
+  每年都有希望，是很好的事情。
+  </p>
+  </div>
+  </div>
+  </div>
+
+  <div id="outline-container-orgdaee777" class="outline-3">
+  <h3 id="orgdaee777">健康</h3>
+  <div class="outline-text-3" id="text-orgdaee777">
+  <p>
+  从内、外两方面入手。内者，勤练功，太极拳是也；外者，勤习医是也。
+  </p>
+  </div>
+
+  <div id="outline-container-org2efb2e0" class="outline-4">
+  <h4 id="org2efb2e0">家庭中医</h4>
+  <div class="outline-text-4" id="text-org2efb2e0">
+  <p>
+  回首2020，新冠疫情影响深远，也让我重新审视「健康」这个人生关键词。道源先生多年来倡「家庭中医」，呼吁「一人学医，呵护全家」，用「简便廉验」的方式处理家庭常见病。我随先生有年，然仅是服膺其言而未践其行，于是遇小儿发烧便焦虑不安，见父母感冒仍手足无措，诚可恨恨也。所谓「实践出真知」、「行为改变认知」，新的一年，决心将更多业余时间花到「健康」技能的学习实践上，希望来年回顾时略有所得。古人云「上以疗君亲之疾，下以救贫贱之厄，中以保身长全」，我虽无此天赋才情，若能在未来的岁月里保得父母妻儿一时安康，也可算不负此生了。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-orgb6122bb" class="outline-4">
+  <h4 id="orgb6122bb">习拳</h4>
+  <div class="outline-text-4" id="text-orgb6122bb">
+  <p>
+  回首这几年，做的最好的选择之一便是2016年五一随邓老师、戴老师学习一周，学了一套96式武式拳，一套17式易筋经。正是这两项，伴我走过了后来的身心低谷期。2020年新冠来袭，让人感叹人身脆弱，健康可贵。2月重拾习拳至今，于方寸之地举手投足之间，慢慢体会身体结构的细微变化，虽有很多不明所以，依然不断有欣喜。最近看到「身体的立体网络结构」这个概念，得知人体是一个由骨肉筋膜皮肤等组成的动态张拉结构网络，习拳就变得愈来愈有趣。日积跬步，以成千里，新的一年继续以己为媒，探索人身的奥秘。
+  </p>
+  </div>
+  </div>
+  </div>
+
+  <div id="outline-container-orgb5d0058" class="outline-3">
+  <h3 id="orgb5d0058">家人</h3>
+  <div class="outline-text-3" id="text-orgb5d0058">
+  <p>
+  年轻时工作狂，经常加班并乐此不疲。人到中年，才明白其实有些东西是可贵的，需要珍惜的，而有些却是锦上添花的，没有也影响不了大局。家人需要陪伴，多陪着走向户外，亲近大自然，享受天伦的美好、自然的美妙。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org7bfe270" class="outline-3">
+  <h3 id="org7bfe270">总结</h3>
+  <div class="outline-text-3" id="text-org7bfe270">
+  <p>
+  越长大越沉默，不是哀莫大于心死，是摸爬滚打中渐渐明白自己能力的边界，有些东西放弃了。自己心里有把秤，作太多的计划，不如一项踏实的行动。
+  </p>
+
+  <p>
+  对于未来，我还是充满期待的。
+  </p>
+  </div>
+  </div>
+  ]]></description>
+</item>
+<item>
+  <title>史上最佳配角，两个问题名留青史</title>
+  <link>https://waychan.cn/blog/2020/shishuo-peijue-xueqin.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2020/shishuo-peijue-xueqin.html</guid>
+  <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+  历史上能在正史留名的，往往都不是时代中的小人物，但因史书有限，同时代中光彩照人之辈又太多，今人读史，往往就觉得那些在史书上仅一两句之人也不甚了了。事实上，那些人也是当时某地一时无二的人物，只因正史中列传的人物星光太甚，风头便没那么大了。比如我县的首富，可能在如今我们这地儿已是风云人物，而后人或许不会记着他，因为这个时代有马云。
+  </p>
+
+  <p>
+  然而，他们也有过人处。比如，东汉末年有个叫薛勤的人，因为或许多余的两个问题，为后人留下了传世名言，而自己也青史有名了。薛勤其实也不差，做官做到山阳太守，可谓省部级高官了。那么，他问了哪两个问题呢？
+  </p>
+
+  <p>
+  第一个问题是问陈蕃（字仲举）的，在《后汉书·陈王列传》和《世说新语·德行第一》都有记载。
+  </p>
+
+  <p>
+  陈仲举年轻时候在家，薛勤与他父亲是同乡好友，有次到陈仲举家看到陈仲举家里也不怎么打扫，就问他为什么不打扫一下接待宾客？然后陈仲举就回了一句传世名言「大丈夫处世，当扫除天下，安事一室乎！」
+  </p>
+
+  <p>
+  《世说新语》德行篇说陈仲举『言为士则，行为世范，有澄清天下之志』，可以说是从小就有志向，并且长大后是实现了抱负的，做到了三公，是东汉末年在朝士人的典范。
+  </p>
+
+  <p>
+  第二个问题是问郭泰（字林宗）的。郭林宗是东汉末年在野士人中的泰山北斗级人物，蔡邕（蔡文姬之父）常为别人写碑文，说过一句话，「吾为人作铭，未尝不有惭容，唯为郭有道（即郭林宗）碑颂无愧耳」，也就是说郭林宗在当时是当之无愧的士林高士。
+  </p>
+
+  <p>
+  郭林宗虽然已经厉害得如东邪西毒南帝北丐那样的宗师级人物了，但也有偶像，还有像王重阳那样的更高人，那人叫黄叔度。
+  </p>
+
+  <p>
+  故事是这样的：郭林宗去拜访汝南名士袁奉高（当时很有名望），到了门口车都没停，打声招呼就走了；而到黄叔度那里，仿佛拜倒一般，一连住了几天。如果是故事，到这里也该结束了，让人感觉这个黄叔度确实了不起，至于如何了不起，则值得读者自己回味。
+  </p>
+
+  <p>
+  而历史总有人跳出来，不知是傻还是明知故问，来添彩一笔。《世说新语》记载：人问其故，林宗曰「叔度汪汪如万顷之陂，澄之不清，扰之不浊，其器深广，难测量也。」此人就是薛勤，于是郭林宗回答说黄叔度这个人「深不可测」。
+  </p>
+
+  <p>
+  历史的主角是像陈仲举这样挽大厦于将倾的人物，像郭林宗那样「天子不得臣，诸侯不得友」却有衣冠诸儒载车数千相送归乡的不仕名士，而像薛勤这样的人，就如周星驰电影中的配角，不重要但不能没有。我们读到那段文字时，会觉得这个人多问，但问得好。至于历史上薛勤是不是真问了这样的问题，已经没那么重要了。重要的是，历史记住了陈仲举，记住了郭林宗，记住了黄叔度。
+  </p>
+  ]]></description>
+</item>
+<item>
+  <title>跟着儿子上小学，重新思考什么是教育</title>
+  <link>https://waychan.cn/blog/2020/thought-of-child-education.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2020/thought-of-child-education.html</guid>
+  <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+  儿子上一年级了，于是，每天下班回家辅导功课成了又一项必不可少的工作，难度不小，耗时不少。
+  </p>
+
+  <p>
+  从a o e开始，一个个教拼音，要亲子阅读，每天读篇小故事，要读古诗背古诗，要检查数学作业本，还要跟着读一遍，不认识的字教会了。相当于家长实实在在跟小孩一起学习了，最后还必须签字确认。似乎比上班累多了。
+  </p>
+
+  <p>
+  虽然有时候看着儿子从不会念到念熟悉，也挺有成就感，但似乎终究不是那么个事。我们小时候上小学有这样的吗？父母字都不识一个，还不照样很多人211、985读起来。
+  </p>
+
+  <p>
+  教育的目的是成人。一个人的成长离不开家教和师教，最终能长成什么样子是先天禀赋和后天习得共同促成的。无论什么教育，都不能忘了让人有片技以安身，有理想以立命。要让人知道生命是可贵的，自然与社会都是生生不息的，可以去深度探索的，每个人的人生都有一个修己安人的过程。
+  </p>
+
+  <p>
+  现在的问题是，技能教育跟不上时代，人格教育也渐行渐远。以致于让某些表面的虚荣比如分数，升学率等代替了本该有的每个生命阶段的不同的体验。人生的压力是现实存在的，我们的教育用错了方式去让学生体会这种压力，让本应处于生长阶段的树苗，遭受不正常的肃杀气。
+  </p>
+
+  <p>
+  今天看到出了新的政策，不得下达升学指标给学校和老师，是好事，至于能不能落实，还有待观察，还是希望我的孩子，在他本该阳光的童年，能有更多的时间和空间来发现和构筑他自己的世界，我和他母亲在一旁看着，偶尔指点方向即可。
+  </p>
+
+  <p>
+  所以，似乎目前最需要教育的是如今的父母。面对社会的压力，时代的巨变，更应该去思考如何应对而非将自己的期待或者无形的压力转嫁于子女身上。学而时习之，学习是人生的最大主题，如果父母能跟上时代，有足够的能力应对生活的变化，能从容而少焦虑，在那样的家庭中生长的孩子，内心大概会是光明的，不至于走极端的路。
+  </p>
+  ]]></description>
+</item>
+<item>
+  <title>老房子的断壁残垣，是我回不去的童年</title>
+  <link>https://waychan.cn/blog/2020/my-old-house.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2020/my-old-house.html</guid>
+  <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+  我家的老房子是父亲从爷爷奶奶手里接过来的，只有一个开间，宽3米，进深很深，一个平房加一个平顶加一个天井再加一个二层的小楼，最后是一个简陋的茅房。第一个平房是门厅，上面盖着深灰瓦片；平顶是厨房，防水不好经常漏水；小楼是卧室，小楼的楼梯、楼板全是木板做的，楼上一个床，床下没有楼板。
+  </p>
+
+  <p>
+  我就是在这个房子里出生的，并度过了童年。
+  </p>
+
+  <p>
+  房子门前是一片场地，场地上经常长起野草，下雨天我就在场地上玩泥巴。再前面是一条小路，从村子的东面通往西面，连接了隔壁两个村子，那个时候没有汽车，连自行车也很少，经常看到村里或邻村的人从东边走到西边，又从西边走到东边。
+  </p>
+
+  <p>
+  再往前是一棵枣树和一棵楝树，靠着小路，长得很高。天热了，这两棵树上栖满知了和蝉，热闹一整个夏天，我经常站在下面往上看，循着那知了的叫声，发呆。枣树上有很多毛毛豆，长刺，手碰到就会长一个大疱，又痛又痒，怎么挠都没有用，大人们经常说「等刺到了骨头就好了」，我就会傻傻在那时等。再过去是一片桑树林，里面栽了棵枇杷树，枇杷树很大，是隔壁三爷爷家的，夏天枇杷熟了，村里几个小伙伴经常偷偷地爬树上摘来吃。
+  </p>
+
+  <p>
+  桑树林的尽头，是村里的小湖，村里淘米、洗菜、洗衣都在小湖里，包括我们洗澡。最喜欢夏天，可以往湖边一躺，凉快一天。当然，湖边石板下的螃蟹，是我们最好的玩伴，还有鳝鱼，还有水蛇。夏天，这湖成了村里的泳池，我们这些小娃，从家里扛了门闩往腋下一放就跳湖里了，有大人在，最多喝几口凉水，尝几个酸鼻子，也就学会了游泳，当然，是土狗爬式。
+  </p>
+
+  <p>
+  那个时候，家里养很多蚕，门房、小楼的底楼都铺满了蚕宝宝，只留下窄窄的一行供人进出。有时候实在放不下，父母会把门房半空用帘铺再隔出一层来，大概一米多高，正好到我头顶，我经常撞到头。在家养蚕，经常会有臭味，特别是夏天那一季，发霉腐烂后就特别难闻，但印象中，似乎没有这种感觉，只记得小小的我，在帘铺旁，盯盯蚕宝宝看，眼睛都不眨。
+  </p>
+
+  <p>
+  梅雨天，我喜欢坐在天井下看雨。天井里有一棵井，下雨天井水会很快上升，有时候感觉连小小的我都能够到井水，但我不敢在井边久站，怕井里的怪物上来把我拉下去。天井里种了一棵桃树，春夏之交，桃子挂满整棵树，我却不怎么要吃。
+  </p>
+
+  <p>
+  后来，我家养的蚕太多，房子太小实在放不下，父亲下决心在村东选了块地，建了新房。按理，老房子是要拆掉的，但奶奶念旧，喜欢住老房子，父亲就把其中的一进（平顶间）留了下来，被村里罚了800块钱。
+  </p>
+
+  <p>
+  我也喜欢老房子，经常往奶奶那跑，我那两个堂弟还住在我家老房子隔壁，也经常一起玩。平顶间是厨房，有一个土灶，一个橱子，一个桌子，几条凳子和一张床。那个时候，最喜欢留在那时，喝奶奶烧的粥，有时候，奶奶还会煮个鸡蛋，有蛋吃最开心。
+  </p>
+
+  <p>
+  记得小学三年级的暑假，一直在奶奶那跟两个堂弟玩，弟比我小5岁，还没上幼儿园呢，夏天一点衣服都不穿，喜欢在外瞎晃荡。那天到奶奶那，玩得渴了，就在灶边伸手拿杯子，人不高，刚好够到，手一用力杯子就倒了，水全部洒出来，但那是奶奶刚烧的热水，结果溅到了弟弟的胸口。他疼得哇哇大叫，我急得呼呼大喊。奶奶听到赶回来，拿出酱油往弟弟身上涂，还好伤口不大，只留了个小疤。
+  </p>
+
+  <p>
+  如今，村里的房子都已经重新造过一遍了，全盖了楼房。只剩下奶奶住过的这一间平顶房，残破地呆立在那里。奶奶过世已经二十多年，这破房子也孤独了二十多年。我已经多年没有去看看，某一天逛到那里，看到残破的断壁，久久无言。
+  </p>
+
+  <p>
+  门前的小路早已拓宽成了水泥路，枣树和楝树早已牺牲。门前桑树林里的枇杷树也已不见踪影，只有远处的小湖还在那里，但水已不清澈，也再无人去洗澡。弟弟们早已成家，我也再无时间去修理这仅剩的老房子，老房子还呆在那里，默默地诉说着时光，我会时不时想起童年，而它不知道什么时候会倒下。
+  </p>
+  ]]></description>
+</item>
+<item>
+  <title>那一年的任性，让父亲憔悴伤心</title>
+  <link>https://waychan.cn/blog/2020/fathers-sadness-causeme.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2020/fathers-sadness-causeme.html</guid>
+  <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+  长在农民之家，让我从小懂得了生活的艰辛。或许因为言传身教，我保留了父母老实本份的性格，所以学习一直较为认真。从小到大，我逐渐成了村里学习最好的孩子，成了远近常有人说的「别人家的孩子」。父母长辈们「好好读书，长大做个城里人」的嘱咐和期待，虽然不是很懂，但一刻没忘。
+  </p>
+
+  <p>
+  大概是上天的眷顾，虽然中途有一段坎坷，高考发挥也略微失常，我还是顺利进入了名校，学了当时的热门专业。毕业后，不想为家里增加负担，回到了县城工作。工作还算是体面，也被人称作铁饭碗（如今看来早已不是），父母也颇为欣慰。在农村，乡里乡亲都熟，没事凑一起喜欢聊些东家长、西家短之类的，子女的情况常被拿来比较。虽然没有攀比之心，在那样的环境下，父母必然也在意，好在，我让他们自豪，让他们在村里倍有面子，当然我工作的收入相对还不错，里子也不缺。
+  </p>
+
+  <p>
+  按照故事的发展，我该娶妻生子了，父母似乎也在为这事张罗准备，但我没往那想。仅一年我就被调往单位最好的部门，按理再好好工作下去，前途是光明且可期的。只不过，工作一年多，我就感到了职业倦怠，渐渐萌生去意。不到两年，刚过完年不久，我感觉「已经看到了人生的尽头」，我希望「人生有更多的可能」，于是辞职了，裸辞，没有与父母商量。
+  </p>
+
+  <p>
+  当父母知道此事时，木已成舟。那一天，母亲怪我太冲动不懂事，与我吵了一架又痛哭，说了很多话，仿佛从小到大的艰辛都要说尽。而父亲，则坐在桌上一声不吭，只闷头喝酒，又默默抽烟。多年后，我知道了，那一天，母亲只是气着了，发泄一通也就过去，父亲却真的伤了心。
+  </p>
+
+  <p>
+  而后我在家里呆了一周，从网上找了份支教，往西部去了，寻找我所谓的人生的自由与可能。我不知道的是，从那以后，父亲又开始拼命劳作了，不仅地里庄稼没丢，还在附近工厂找了份体力活，每天早起摸黑，不要命似地干活。
+  </p>
+
+  <p>
+  我再次回家，已经是快过年了。母亲告诉我，这一年，家里种了两亩菊花，养了三季蚕，父亲和她还都在工厂打工，地里农活全是拼命挤出时间做的。这一年，养蚕季都是起早摸黑做出来的，采菊花都是晚上戴了照明灯做到半夜，早上4点多又起来继续的。这一年，所幸他俩的饭量一直增加，赶上了年轻时候，却还是感觉到累了。这一年，父亲都没怎么休息，休息时也不愿与乡亲聊聊天。这一年，是他们最近几年收成最好的时候，却也是他们最不开心的一年。
+  </p>
+
+  <p>
+  再次见到父亲，他明显瘦了，原本的黑发隐现几屡白发，略显憔悴。我有些内疚，先开口「工作已经在找了，应该很快就能上班」，父亲只说了句「好好做」，又默默抽烟了。我觉得，他还在生气，但并没有生我的气，只是闷闷怨自己。
+  </p>
+
+  <p>
+  而后不久，我又去工作了，还是原来的行业，收入比之前还要多。父母似乎又轻松了，特别是父亲，但他依然很忙，忙于打工，忙于农活，我和他，并没有多交流。
+  </p>
+
+  <p>
+  某一年，我准备买房，父亲轻轻问「还缺多少，我们积了些，你都拿去用」，我默默接过。又一年，我准备回家种种菊花，生态种植的那种，问起父亲可不可行，他只对我说一句「好好上班，不要多想」；后来才慢慢分析了为什么不行。
+  </p>
+
+  <p>
+  我知道，那一年的任性而为，伤了父亲的心。我也知道，父亲依然默默地站在我身后，只要我需要，他仍然会毫不犹豫地伸出他那双长满老茧的手，为我遮风挡雨，虽然我已长大。
+  </p>
+  ]]></description>
+</item>
+<item>
+  <title>我的父亲是农民</title>
+  <link>https://waychan.cn/blog/2020/my-father-peasant.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2020/my-father-peasant.html</guid>
+  <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+  我父亲是个天生的农民，因为他生在农民之家，肯吃苦，从小务农，一辈子与泥土和庄稼打交道。在村里，他是出了名的干活狠角色。
+  </p>
+
+  <p>
+  在我未到县城读书之前，他在我心中一直是高大的偶像。
+  </p>
+
+  <p>
+  <b>他勤劳。</b> 从小到大，我就没见过他好好休息过。大年初一，我们乡下有句老话叫『年初一做农活，一年做到年三十』，他往往不信，或者说是不屑，大年初一照做不误。按理说年初一其实也没什么事做，一来是冬天，二来都要过年走亲戚。他却坐不住，拿起工具就走，夯个土也好，排个沟也好，哪怕上田地里走走看看，觉得踏实。结果，就应了那句话，一年做到头，但他似乎总觉得这理所当然，早已习以为常。
+  </p>
+
+  <p>
+  <b>他节俭。</b> 村里有个传说，是关于我家的，经常有人提起：『酱油过饭从年初吃到年尾』。父亲那一辈四兄弟，家里穷，分家没什么财产，全靠父母自己务农一点点挣出来。所以家里就省吃俭用，地里产什么就吃什么，冬天地里没菜了，就吃夏天剩余的蔬菜做的腌制品。有一年，地里丝瓜长得特别多，天天吃丝瓜，这一年过后，母亲见了丝瓜就想吐了。记得小时候，猪油拌饭特别香，一碗大米饭，放一点点猪油一点点酱油，自己一拌，可以瞬间消灭。因为难得吃，特别爱吃。某一年，父亲的外套破了补，补了破，母亲实在烦了打补丁，咬咬牙给父亲买了件新的，结果父亲还是继续穿破的，说『干农活又无所谓，新的明年穿』。
+  </p>
+
+  <p>
+  <b>他诚信。</b> 那会儿家里穷，但逢年过节、红事白事、日常开销总要花钱，有时候实在拿不出了，父亲会很无奈地找亲戚朋友借钱。而每次借钱，他都会跟对方说好在正常情况下什么时候归还。有一年跟姑姑家借了点钱，说好秋蚕季结束卖钱后归还，结果这一季秋蚕养得很差，收成没多少不够还，父亲很急，虽然姑姑家根本不把这点钱当回事，他还是连夜去姑姑家说明情况。父亲常说， <b>说到做到、有借有还，这是做人的原则。</b>
+  </p>
+
+  <p>
+  在我到县城、到省城读了点书后，他渐渐变得普通，甚至土气。
+  </p>
+
+  <p>
+  <b>他不知打理。</b> 因为干农活，父亲常把自己弄得很脏，但很少认真清理，往往就河边顺手一洗，有时候很晚回家，累了吃口饭就往床上一躺，呼呼睡了。而且，每次理发都是母亲逼着去的，胡子也常年不剃，只是理发时让师傅帮忙刮一下。他总是不以为意，常说『干活已经很累了，这些不弄又不影响干活』。为此母亲没少说他，但他依然如此，久而久之也无人管他了。
+  </p>
+
+  <p>
+  <b>他不会生活。</b> 农闲时，乡亲们往往会串门，闲聊打牌什么的。父亲会抽烟、会喝酒，偶尔聊聊农事，难得八卦，不会打牌，更不会麻将。他不做菜，种了一辈子田却不爱花草，最远的地方只到过省城（还因为省城实在近），却从不想着去外面看看风景。有时候我会觉得他挺可怜的，一辈子除了农活，除了挣钱，除了有这么一个家，什么都没有。
+  </p>
+
+  <p>
+  <b>他不懂变通。</b> 某件事定了，父亲往往就不会再改了，哪怕情况出现变化。有一年年初报蚕种，中秋蚕报了三张，但那一年的桑树长得很不好，铁定是养不了那么多蚕的。母亲让父亲去村里退一张蚕种，不然买来也浪费钱。父亲一直说『再看吧，说不定能养好』，就是不肯去退。结果不仅辛苦，蚕也因为缺少桑叶养得并不好，费了力没好收成。母亲常说，这个人就是认死理。
+  </p>
+
+  <p>
+  在我身为人父，想要回归乡村后，我渐渐明白了他，把他当成了我前进的榜样。
+  </p>
+
+  <p>
+  <b>他理智。</b> 每年田地里种什么，父亲都会提前计划好，作为一个老农民，他精于此。而且，他很少因为传言而改变他的计划，即便要调整也会仔细分析后再决定。有一年他准备种一亩杭菊，因为上一年杭菊种的人家也不多，产量低了，价格较高。这一年种的人家多，据说产量会高而价格肯定会降，母亲让他少种点，杭菊管理太花工夫，采摘又必须及时，非常辛苦。他觉得一亩地的杭菊我们家能种下来，即使收成时价格低些，也能换些钱，值得种。结果那一年梅雨季雨量大，很多人家在田里种的杭菊因为被水淹，不少都死了，我家因为田地势略高，父亲处理及时，虽然也淹了一点，但没多少影响。这一年杭菊价格很好，一亩地的杭菊采摘辛苦，但收成不错。母亲很开心，一直夸是父亲的功劳。
+  </p>
+
+  <p>
+  <b>他担当。</b> 父亲兄弟四人，两个哥哥，但他最早结婚，在兄弟分家前就结婚了。所以他一直认为自己应该多担些家庭的责任，家里爷爷奶奶留下的债务他挑了大部分，分家分到的房子连大门都没有，以至于我们家在很长的一段时间里都在还债中。刚分家那会，父亲有个机会在乡办企业工作，那时我大伯没结婚也没工作，身体较弱，父亲就把这个机会让给了他。母亲觉得很亏，觉得父亲傻，但父亲一直没说什么。父亲就这样默默地承担着他认为该承担的责任。
+  </p>
+
+  <p>
+  <b>他坚毅。</b> 父亲虚岁7岁干农活拿工分，虚岁16岁拿成人的工分，27岁分家承担大部分家庭债务，35岁借款造房子，一直在艰辛地劳作挣钱，田地里有收成的作物他都种过，养过猪、养过鸡，还挑过担、卖过泥、打过小工，凡是能挣钱的他都会尝试去做，直到我大学毕业工作有了收入，他的压力才轻了些。这么多年，他就那样劳作着，和母亲一起，为这个家打拼。每每看到他外出的背影，那般坚毅，如磐石。
+  </p>
+
+  <p>
+  父亲就是这样，一个普通的江南乡村农民。他出生在这样一个穷苦家庭，生活在这么一个变迁的时代，默默承受着他能承受的一切，付出了他能付出的所有。有过怨愤，可能有过不甘，但一直向前。当我身为人父，承担起自己家庭的责任，才真的明白，我这位父亲是多么不易，而他却又多么坦然。 <b>身为一个农民，他无愧于时代，无愧于家庭，唯愧对他自己。</b>
+  </p>
+  ]]></description>
+</item>
+<item>
+  <title>父亲用半个世纪的经验告诉我：别回农村</title>
+  <link>https://waychan.cn/blog/2020/fathersays-donot-comeback-rural-area.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2020/fathersays-donot-comeback-rural-area.html</guid>
+  <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+  父亲是50年代末出生的，兄弟姐妹四个，他排行老三。在他刚到上幼儿园的年纪，在某一天的早晨，我爷爷起床后又睡下，一睡不醒。那个时候，他虚岁六岁，他大哥八岁，二哥七岁，妹妹还未断奶。
+  </p>
+
+  <p>
+  家里断了顶梁柱，大哥体弱，二哥多病，反倒是男娃中最小的父亲，成了家庭最好的希望。于是，父亲虚岁七岁下地干活拿工分，虚岁十六岁即拿成人的工分，未成年就成了小队中最能吃苦最愿干活的人。从小到大，父亲经历了新中国几乎所有的农业变迁，做过村里所有的农事农活。
+  </p>
+
+  <p>
+  如今，父亲依然在田地里干农活，没有停下来的意思，习惯了。
+  </p>
+
+  <p>
+  作为农民的儿子，我从小就被教育「好好读书，长大了做城里人，不用干农活」。我也确实做到了，一路顺利读到大学，然后找了个在乡下算是体面的工作，城里买房安家了。父母了却了心愿，但依然不停止劳作。
+  </p>
+
+  <p>
+  但是，过了几年城市生活的我却常想着回农村。我知道父母肯定不会同意，特别是父亲，他不想让儿子跟他一样。于是每次回家，我都会旁敲侧击给父亲吹吹风，讲一些新时代做农业的成功故事。我们的对话往往是这样的：
+  </p>
+
+  <blockquote>
+  <p>
+  父亲：种田肯定是不来的。
+  我：我的一个好朋友，在家里种菊花，不用农药化肥，菊花要卖1000块一斤，你看看，还是很好的！
+  父亲：你不要想得太简单，不打药水不用肥，菊花长得好？
+  我：不试试看，怎么知道行不行？种出来我可以卖给我朋友，不怕卖不掉。
+  父亲：我做了一辈子农活，还不知道这个？种一年田能换几个钿，你上班一年能拿多少，这个你总知道吧。
+  于是，只字不识的父亲用农人的精打细算，给我算了笔账：
+  养蚕：春蚕三张，当它有2000块一担（百斤），6000块；再辛苦点养晚秋蚕二张，1500一担，3000块。
+  种菊花：一亩，当它收1500斤鲜菊花，7块一斤，10500块。
+  小桑苗：当它种2万株，1株5毛，10000块。
+  其他种水稻、种菜之类，就算收成5000块。
+  农药化肥就算你不用，其实如果不用，你到不了上面的产量。
+  一年总共多少，不算上其他成本也就3万5到顶了，你看看养得活一家人吗？」
+  </p>
+  </blockquote>
+
+  <p>
+  每次听后，总觉得有些无奈。单单就经济而言，就败下阵来，更何况还有复杂的种养技术呢，还有天气、市场等变动因素太多呢。
+  </p>
+
+  <p>
+  父亲和他的同龄人，同村的叔伯们，他们这么多年的劳作，像是已经窥破天机般，传统农业在他们眼中，仅仅是习惯而已，延续了半个世纪的情怀。在这个时代，似乎不出去厂里打打工，是很难有什么收成的。
+  </p>
+
+  <p>
+  有时候也在感叹，难道真是回不去的农村？
+  </p>
+  ]]></description>
+</item>
+<item>
+  <title>读书法</title>
+  <link>https://waychan.cn/blog/2019/reading-method.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2019/reading-method.html</guid>
+  <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+  前几日在郁老师的公众号中看到有提到使用东坡读「汉书」法，却不知这到底是什么个方法，百度之，发现有典故，随手录之如下：
+  </p>
+
+  <blockquote>
+  <p>
+  说到《汉书》这部秘笈，苏轼尚曾下苦功夫勤练其中绝艺，陈鹄《西塘集耆旧续闻》载：
+  朱司农载上尝分教黄冈，时东坡谪居黄，未识司农公。
+  客有诵公之诗云："官闲无一事，蝴蝶飞上阶"。东坡愕然曰："何人所作？" 客以公对。东坡称赏再三，以为深得幽雅之趣。异日，公往见，遂为知己。自此时获登门。
+  偶一日谒至，典谒已通名，而东坡移时不出。欲留，则伺候颇倦；欲去，则业已达姓名。如是者久之，东坡始出，愧谢久候之意，且云："适了些日课，失于探知。"
+  坐定，他语毕，公请曰："适来先生所谓日课者何？"
+  对云："抄《汉书》。"
+  公曰："以先生天才，开卷一览，可终身不忘，何用手抄耶？"
+  东坡曰："不然，某读《汉书》，至此凡三经手抄矣。初则一段事，抄三字为题，次则两字，今则一字。"
+  公离席复请曰："不知先生所抄之书，肯幸教否？"
+  东坡乃命老兵就书几上取一册至。公视之，皆不解其义。
+  东坡云："足下试举题一字。" 公如其言，东坡应声辄诵数百言，无一字差缺，凡数挑皆然。
+  公降叹良久，曰："先生真谪仙才也。"
+  他日，以语其子新仲，曰："东坡尚如此，中人之性，岂可不勤读书耶！" 新仲尝以是诲其子辂。
+  </p>
+  </blockquote>
+
+  <p>
+  张溥，字天如，太仓人，「明史・张溥传」载：
+  </p>
+
+  <blockquote>
+  <p>
+  溥幼嗜学，所读书必手抄。抄已朗诵一过，即焚之，又抄，如是者六七始已。
+  </p>
+  </blockquote>
+  ]]></description>
+</item>
+<item>
+  <title>使用emacs和orgmode生成的网站/博客</title>
+  <link>https://waychan.cn/blog/2019/sites-with-orgmode.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2019/sites-with-orgmode.html</guid>
+  <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[<p>
+  本页面收集使用emacs和orgmode生成的网站/博客，大多通过搜索所得。
+  </p>
+
+  <p>
+  A colection of sites/blogs building with emacs and orgmode.
+  </p>
+
+  <div id="outline-container-org786f43c" class="outline-3">
+  <h3 id="org786f43c">英语 English</h3>
+  <div class="outline-text-3" id="text-org786f43c">
+  </div>
+
+  <div id="outline-container-org51ebd92" class="outline-4">
+  <h4 id="org51ebd92">Nicolas Petton(nicolas.petton.fr)</h4>
+  <div class="outline-text-4" id="text-org51ebd92">
+  <p>
+  <a href="https://www.gnu.org/software/emacs/">GNU Emacs</a>目前的主页出自他的手，他的主页正是我所欣赏的。最初搜索到的使用orgmode的org-publish导出html生成静态网站的正是他「<a href="https://nicolas.petton.fr/blog/blogging-with-org-mode.html">Blogging with orgmode</a>」。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org786da28" class="outline-4">
+  <h4 id="org786da28">Stig Brautaset(www.brautaset.org)</h4>
+  <div class="outline-text-4" id="text-org786da28">
+  <p>
+  简洁而明快的主页，是我的想达到的，可惜他的说明看不懂。这是他关于orgmode构建博客的博文：<a href="https://www.brautaset.org/articles/2017/blogging-with-org-mode.html">Blogging with Org mode</a>。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-orgf71c9a7" class="outline-4">
+  <h4 id="orgf71c9a7">bastibe.de</h4>
+  <div class="outline-text-4" id="text-orgf71c9a7">
+  <p>
+  值得参考：<a href="https://bastibe.de/2013-11-13-blogging-with-emacs.html">Blogging with Emacs</a>
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org3591e8a" class="outline-4">
+  <h4 id="org3591e8a">Rasmus Pank Roulund(pank.eu)</h4>
+  <div class="outline-text-4" id="text-org3591e8a">
+  <p>
+  他的博文详细说明了使用orgmode和gitlab ci自动构建博客的过程，还给出了示例，gitlab上orgmode的page也是以他的示例为原型的。博文：<a href="https://pank.eu/blog/blog-setup.html">Blogging with Org</a>。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org0e78a19" class="outline-4">
+  <h4 id="org0e78a19">loomcom.com</h4>
+  <div class="outline-text-4" id="text-org0e78a19">
+  <p>
+  作者对博客页作了很多hack，包括分页（pagination），很实用，可惜我仍然没看懂。参考：<a href="https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html">Emacs Blogging for Fun and Profit</a>。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org5bd8c55" class="outline-4">
+  <h4 id="org5bd8c55">ogbe.net</h4>
+  <div class="outline-text-4" id="text-org5bd8c55">
+  <p>
+  值得参考，也被很多人引用的一篇介绍博文：<a href="https://ogbe.net/blog/blogging_with_org.html">Blogging using org-mode (and nothing else)</a>。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org89fdaf5" class="outline-4">
+  <h4 id="org89fdaf5">其他可参考的</h4>
+  <div class="outline-text-4" id="text-org89fdaf5">
+  <p>
+  <a href="https://caolan.org/dotfiles/emacs.html">caolan.org</a>
+  <a href="https://justin.abrah.ms/emacs/orgmode_static_site_generator.html">orgmode static site genterator</a>
+  <a href="https://ambrevar.xyz/blog-architecture/">A blog in pure Org/Lisp</a> 文中也列了一此使用orgmode的网站。
+  <a href="https://diego.codes/post/blogging-with-org/">Blogging with Emacs, and Emacs only</a>
+  <a href="https://www.john2x.com/blog/blogging-with-orgmode.html">Blogging with Orgmode</a>
+  <a href="https://thibaultmarin.github.io/blog/posts/2016-11-13-Personal_website_in_org.html">Personal website in org</a>
+  <a href="https://jgkamat.gitlab.io/blog/website1.html">Creating A Blog in Org Mode</a>
+  <a href="https://vicarie.in/posts/blogging-with-org.html">Blogging with org</a>
+  <a href="https://m13o.net/201901052018.html">m13o.net</a> 这篇是日文的，介绍了使用orgmode和netlify构建博客的过程。
+  <a href="https://taingram.org/index.html">Thomas Ingram</a>
+  <a href="https://archive.casouri.co.uk/note/2018/blog-with-only-org-mode/index.html">Blog with only Org Mode</a>
+  <a href="https://writepermission.com/">rw-r&#x2013;r--</a> 看不出来是使用orgmode生成的。
+  </p>
+  </div>
+  </div>
+  </div>
+
+  <div id="outline-container-org1b9b378" class="outline-3">
+  <h3 id="org1b9b378">中文</h3>
+  <div class="outline-text-3" id="text-org1b9b378">
+  </div>
+
+  <div id="outline-container-org7b09faa" class="outline-4">
+  <h4 id="org7b09faa">An Amateur Programmer&rsquo;s Blogs</h4>
+  <div class="outline-text-4" id="text-org7b09faa">
+  <p>
+  看这个博客会知道什么叫积累，简简单单却厚重无比。<a href="https://dirtysalt.github.io/html/blogs.html">An Amateur Programmer&rsquo;s Blogs</a>
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org325a231" class="outline-4">
+  <h4 id="org325a231">ZCL.SPACE</h4>
+  <div class="outline-text-4" id="text-org325a231">
+  <p>
+  通信博士，很多专业的内容。<a href="https://zlearning.netlify.com">ZCL.SPACE</a>
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-orgc8e7268" class="outline-4">
+  <h4 id="orgc8e7268">cig01 Home Page</h4>
+  <div class="outline-text-4" id="text-orgc8e7268">
+  <p>
+  好读书，肯下功夫，不仅读，还做笔记。专业人士。<a href="http://aandds.com/archives.html">Archives</a>
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org3242f14" class="outline-4">
+  <h4 id="org3242f14">小过的部落格</h4>
+  <div class="outline-text-4" id="text-org3242f14">
+  <p>
+  风格简洁，内容丰富。<a href="https://xiaoguo.net/">xiaoguo.net</a>
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-orgdcd6425" class="outline-4">
+  <h4 id="orgdcd6425">V for Vendetta</h4>
+  <div class="outline-text-4" id="text-orgdcd6425">
+  <p>
+  有一篇介绍博文：<a href="http://0x100.club/wiki_emacs/blog-test.html">Blog 的搭建及其特性</a>
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org0b23206" class="outline-4">
+  <h4 id="org0b23206">lu4nx@wiki(shellcodes.org)</h4>
+  <div class="outline-text-4" id="text-org0b23206">
+  <p>
+  这篇博文将如何使用orgmode生成博客说明得很清楚了：<a href="https://www.shellcodes.org/Emacs/%E4%BD%BF%E7%94%A8Org-Mode%E7%94%9F%E6%88%90%E5%8D%9A%E5%AE%A2.html">使用 Org-Mode 生成博客</a>。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org4c110c7" class="outline-4">
+  <h4 id="org4c110c7">编码者言</h4>
+  <div class="outline-text-4" id="text-org4c110c7">
+  <p>
+  关于orgmode搭建静态博客的介绍：<a href="https://yuyang0.github.io/articles/org-mode-dropbox-blog.html">使用org-mode与dropbox搭建静态博客</a>。
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-org5393a16" class="outline-4">
+  <h4 id="org5393a16">stardiviner</h4>
+  <div class="outline-text-4" id="text-org5393a16">
+  <p>
+  <a href="https://stardiviner.github.io/">stardiviner&rsquo;s index page</a> 
+  </p>
+  </div>
+  </div>
+
+  <div id="outline-container-orgfedc52e" class="outline-4">
+  <h4 id="orgfedc52e">Mark Wallace&rsquo;s Wiki</h4>
+  <div class="outline-text-4" id="text-orgfedc52e">
+  <p>
+  挺喜欢这个WIKI的简洁风格的，orgmode的确是搭建WIKI的利器。可以参考其中的文章：<a href="http://lotabout.me/orgwiki/how_wiki_is_built.html">本站是如何搭建的</a>。
+  </p>
+  </div>
+  </div>
+  </div>
+  ]]></description>
+</item>
+<item>
+  <title>使用 Org Mode 写博客</title>
+  <link>https://waychan.cn/blog/2019/blogging-with-orgmode.html</link>
+  <author>hi@luweiqiang.com (桑下居)</author>
+  <guid isPermaLink="false">https://waychan.cn/blog/2019/blogging-with-orgmode.html</guid>
+  <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+
+  <description><![CDATA[
+  ]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,185 @@
+/*
+This file is released to the public domain.
+*/
+
+/* Style for WEBRING */
+hr {
+    width: 30%;
+    border: 2px solid #eee;
+    border-radius: 3px;
+    display: none;
+}
+.org-webring .org-webring-articles {
+    display: flex;
+}
+.org-webring .org-webring-article-title {
+    margin: 0;
+    width: 90%;
+}
+.org-webring .org-webring-article {
+    flex: 1 1 auto;
+    flex-basis: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 0.5rem;
+    padding: 0.5rem;
+    border: 0.1rem solid #ddd;
+    transition: 0.3s;
+    opacity: 1;
+}
+.org-webring .org-webring-article:hover {
+    opacity: 1;
+    background-color: #ebebeb;
+}
+.org-webring .org-webring-article-pinned {
+    position: relative;
+    flex: 1 1 auto;
+    flex-basis: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 0.5rem;
+    padding: 0.5rem;
+    border: 0.15rem black solid;
+    border-color: black;
+    transition: 0.3s;
+    opacity: 1;
+}
+.org-webring .org-webring-article-pinned:hover {
+    opacity: 1;
+    background-color: #bcc5cc;
+}
+.org-webring .org-webring-article-pinned-symbol{
+    position: absolute;
+    top: 0.2rem;
+    right: 0.5rem;
+}
+.org-webring .org-webring-article-summary {
+    font-size: 0.8rem;
+    flex: 1 1 0;
+}
+.org-webring .org-webring-attribution {
+    text-align: right;
+    font-size: 0.8rem;
+    padding-right: 0.5rem;
+    color: #666;
+    display: none;
+}
+.org-webring .org-webring-article-date {
+    text-align: right;
+    color: black;
+}
+.org-webring .org-webring-article-source {
+    text-align: right;
+    color: black;
+}
+.org-webring .org-webring-timestamp {
+    color: #666;
+}
+@media screen and (max-width: 600px) {
+    .org-webring .org-webring-articles {
+	    display: flex;
+	    flex-direction: column;
+    }
+}
+@media screen and (max-width: 600px) {
+    .org-webring .org-webring-article {
+	    flex: 1 1 auto;
+        flex-basis: 100%;
+	    display: flex;
+	    flex-direction: column;
+	    margin: 0 0.5rem;
+	    margin-bottom: 0.5rem;
+	    padding: 0.5rem;
+	    border: 0.1rem black solid;
+	    border-color: black;
+    }
+    .org-webring .org-webring-article-pinned {
+        position: relative;
+        flex: 1 1 auto;
+        flex-basis: 100%;
+        display: flex;
+        flex-direction: column;
+        margin: 0 0.5rem;
+        margin-bottom: 0.5rem;
+        padding: 0.5rem;
+        border: 0.15rem black solid;
+        border-color: black;
+        transition: 0.3s;
+        opacity: 1;
+    }
+}
+
+/* Style for PLANET */
+.org-webring-planet .org-webring-description {
+    font-size: 1.1em;
+    color: #444;
+}
+.org-webring-planet .org-webring-articles {
+    display: flex;
+    flex-direction: column;
+}
+.org-webring-planet .org-webring-article-title {
+    margin: 0;
+}
+.org-webring-planet .org-webring-article {
+	flex: 1 1 auto;
+	flex-basis: 100%;
+	display: flex;
+	flex-direction: column;
+	margin: 0 0.5rem;
+	margin-bottom: 0.5rem;
+	padding: 0.5rem 0;
+	border-bottom: 0.1rem solid #ddd;
+}
+.org-webring-planet .org-webring-article-summary {
+    font-size: 0.9rem;
+    flex: 1 1 0;
+}
+.org-webring-planet .org-webring-attribution {
+    text-align: right;
+    font-size: 0.8rem;
+    padding-right: 0.5rem;
+    color: #666;
+}
+.org-webring-planet .org-webring-article-date {
+    text-align: right;
+    color: black;
+}
+.org-webring-planet .org-webring-article-source {
+    text-align: right;
+    color: black;
+}
+.org-webring-planet .org-webring-timestamp {
+    color: #666;
+}
+.org-webring-planet .org-webring-feed-url {
+    color: #666;
+}
+.org-webring-planet .org-webring-syndicate {
+    font-size: 1rem;
+}
+.org-webring-planet .column-left {
+    /*float: left;*/
+    width: 70%;
+    margin-right: 4px;
+}
+.org-webring-planet .column-right {
+    float: right;
+    width: 25%
+}
+.column-right h4 {
+    padding-left: 20px;
+}
+@media only screen and (max-width: 600px) {
+    .org-webring-planet .column-left {
+        width: 100%;
+        padding-bottom: 10px;
+        float: none;
+    }
+    .org-webring-planet .column-right {
+        width: 100%;
+        margin-left: 2rem;
+        padding-bottom: 10px;
+        float: none;
+    }
+}

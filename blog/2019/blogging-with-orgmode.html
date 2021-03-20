@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2021-03-20 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>使用 Org Mode 写博客</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Lu Weiqiang">
+<meta name="description" content="记录使用 Org Mode 写博客的几次折腾过程，并不详细。"
+>
+<meta name="keywords" content="Org Mode, 博客, Emacs">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" href="/css/style.css" type="text/css" />
+<link rel="stylesheet" href="/css/org-webring.css" type="text/css" />
+<link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+<meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png">
+<link rel="alternate" type="application/rss+xml" href="https://waychan.cn/blog/rss.xml" title="RSS feed">
+<meta property="og:title" content="使用 Org Mode 写博客">
+<meta property="og:url" content="https://waychan.cn/blog/2019/blogging-with-orgmode.html">
+<meta property="og:description" content="记录使用 Org Mode 写博客的几次折腾过程，并不详细。">
+<meta property="og:image" content="https://waychan.cn/">
+<meta property="og:type" content="nil">
+
+
+<meta property="twitter:title" content="使用 Org Mode 写博客">
+<meta property="twitter:url" content="https://waychan.cn/blog/2019/blogging-with-orgmode.html">
+<meta property="twitter:image" content="https://waychan.cn/">
+<meta property="twitter:description" content="记录使用 Org Mode 写博客的几次折腾过程，并不详细。">
+<meta property="twitter:card" content="summary">
+</head>
+<body>
+<header id="top" class="status">
+<nav class="menu">
+<label for="hamburger">&#9776;</label>
+<input type="checkbox" id="hamburger"/>
+<a accesskey="H" href="/">主頁</a>
+<a accesskey="B" href="/blog/">網誌</a>
+<a accesskey="N" href="/note/">筆記</a>
+<a accesskey="G" href="/guestbook.html">留言</a>
+<a accesskey="P" href="/about.html">關於</a>
+</nav>
+</header>
+<main id="content">
+<header>
+<h1 class="title">使用 Org Mode 写博客</h1>
+</header><p>
+自2016年离职后，一直静不下心，几近停止思考。翻翻以往文字，偶尔会有些感触。曾几何时，也是有一番立志，计划长久积累，此次聊记几笔，亦是作个见证。 
+</p>
+
+<p>
+写博客有些日子了，但好像都没能坚持下来。从刚开始的新浪、百度、博客大巴之类，到后来的所谓独立博客，使用 Wordpress、Typecho 搭建，域名换了又换，再到后来在 Github pages 上使用 Jekyll 搭了个简单的页面，再到今年前些时候决定重启博客，尝试了各种静态博客生成工具，最终还是选择了 Jekyll，折腾很久算是将简洁的风格确定了。但没写几篇，又改了主意。
+</p>
+
+<p>
+此次，立志好好學習。使用 Emacs 和 Org Mode 搭建了个人页面，算是从头开始。
+</p>
+
+<section id="outline-container-org4459eb9" class="outline-2">
+<h2 id="org4459eb9">为什么这么折腾</h2>
+<div class="outline-text-2" id="text-org4459eb9">
+</div>
+<div id="outline-container-org346c5c5" class="outline-3">
+<h3 id="org346c5c5">目标不明确</h3>
+<div class="outline-text-3" id="text-org346c5c5">
+<ol class="org-ol">
+<li>心未定。虽然知道博客有助于自身进步，从很多人的经历中，都可以看出其思想脉络和心路历程。但知易行难，心未定，则几经周折，不知所措。</li>
+<li>行不恒。持之以恒实在是件难事，虽然曾经坚持了两三年的 Typecho，后来生活中的各种忙碌之后，便也能不了了之。</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgb6d3298" class="outline-3">
+<h3 id="orgb6d3298">此次重启之原因</h3>
+<div class="outline-text-3" id="text-orgb6d3298">
+<p>
+实在是因为无论工作还是生活中，从日常阅读观察中，发现自身越来越不及这个时代的变迁，不及专业的能力，亦难以应对生活中的难处。不学习不足以应世事之变，不积累不足以成生活之美。
+</p>
+
+<p>
+Emacs 被称为神之编辑器，Org Mode 是其内建的功能强大的管理工具。之所以选择这样的工具，实在是因为自己喜欢这种求新求变，富于挑战。有人说学习成本异常高，在搭建的过程中我也确实感受到了，以致于有人说“尽选hard模式”，想想其实也蛮可笑的。但，这是为了坚持。
+</p>
+
+<ul class="org-ul">
+<li>凡事开头难：人生没有速成，只有不断积累，方能成就。所有文字以org文件管理，是积累的一部分，并有利于备份。</li>
+<li>坚持最重要：曾经未能做到的，不羞于启齿，亦善于总结，重要的是坚持。</li>
+</ul>
+</div>
+</div>
+</section>
+
+<section id="outline-container-org744c162" class="outline-2">
+<h2 id="org744c162">Org project 搭建</h2>
+<div class="outline-text-2" id="text-org744c162">
+<p>
+具体过程不再赘述，参考资料如下：
+</p>
+
+<ul class="org-ul">
+<li>org-tutorial: <a href="http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html">Publish org-mode files to html</a></li>
+<li>Dayigu&rsquo;s Basket: <a href="http://dayigu.github.io/WhyUseOrgModeToWriteBlog.html">为什么用 org-mode 写 blog？</a>  （已无法访问<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-02-27 Sat&gt;</span></span>）</li>
+</ul>
+</div>
+
+<div id="outline-container-orgba60447" class="outline-3">
+<h3 id="orgba60447">Deployment 部署</h3>
+<div class="outline-text-3" id="text-orgba60447">
+<p>
+起初直接在本地使用 M-x org-publish-all 导出 html 文件后 git push 至 Github，使用 Github pages。后来感觉麻烦，搜索之后找到 Gitlab pages，能直接自动编译后部署。Gitlab的好处是测试方便，缺点是速度有些慢，绑定独立域名有些欠缺。最后，找到 Netlify，与 Gitlab 一样可以自动编译部署，还自带CDN，速度快，绑定独立域名也方便，网上推荐说点几下就搞定，的确如此。
+</p>
+</div>
+</div>
+</section>
+
+<section id="outline-container-org7c7f8c3" class="outline-2">
+<h2 id="org7c7f8c3">UPDATE</h2>
+<div class="outline-text-2" id="text-org7c7f8c3">
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-02-27 Sat&gt;</span></span>
+</p>
+
+<p>
+继续折腾 Org Mode 导出，这次通过万能的 Github ，找到了一些可用的代码，实现如下功能：
+</p>
+
+<ul class="org-ul">
+<li>类似博客的 Index 页面，通过自定义 sitemap-format 实现；</li>
+
+<li>以文件夹来分类，每个分类下自动生成 index 页面，通过 auto-sitemap 来实现，虽然比较弱智，但够用；</li>
+
+<li>博客内容集中在 content 文件夹下，与其他如 image, CSS 之类文件分开，看起来比较简单些，目前目录结构类似如下：</li>
+</ul>
+
+<pre class="example" id="org8b15cde">
+├── README.org
+├── assets
+│   ├── css/
+│   ├── favicon.ico
+│   └── images/
+├── content
+│   ├── about.org
+│   ├── blog/
+│   ├── index.org
+├── publish.el
+├── templates
+</pre>
+
+<ul class="org-ul">
+<li><code>Blog</code> 分类下生成 rss.xml 文件，可用于 RSS 订阅；</li>
+
+<li>生成最新文章列表并通过 <code>include</code> 添加到主页内，实现「最近更新」栏目。</li>
+</ul>
+
+<p>
+<code>assets</code> 放置静态文件， <code>content</code> 放置 org 文件， <code>templates</code> 放置 header/footer 等随时可变更的文件（类似于模板）了， <code>publish.el</code> 为 emacs 用以导出 html 文件的代码。大致就是以上这些，另外借用了 <a href="https://github.com/gongzhitaao/orgcss">ORGCSS</a> 的配色风格，最终就是网站现在的样子了。
+</p>
+
+<p>
+<b>特别说明：</b> 每个 Org 文件的 Front Matter 必须包含 <code>#+DESCRIPTION</code> 和 <code>#+KEYWORDS</code> ，如果没有的话 blog 的 Index 页会显示 nil 。
+</p>
+</div>
+
+<div id="outline-container-org15f62b7" class="outline-3">
+<h3 id="org15f62b7">Export</h3>
+<div class="outline-text-3" id="text-org15f62b7">
+<p>
+<i>publish.el</i> 文件是用来导出 html 的，详见<a href="https://github.com/lujok/waychan/blob/master/publish.el">这里</a>。
+</p>
+
+<p>
+在项目文件夹下使用如下命令（也是在 Netlify 中配置的 Build command）：
+</p>
+
+<div class="org-src-container">
+<pre class="src src-shell">emacs --batch --no-init-file --load publish.el --funcall org-publish-all
+</pre>
+</div>
+
+<p>
+当前文件夹中的 public 文件夹内即为导出的 html 文件。
+</p>
+
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-03-07 Sun&gt; </span></span> update: 使用 Github Action 导出 html 文件至 gh-pages 分支，通过 <a href="https://vercel.com">Vercel</a> 部署。
+</p>
+</div>
+</div>
+</section>
+<h2 id="discus">讨论/留言</h2>
+<div id="comment">
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+    <script>
+        new Valine({
+            el: '#comment' ,
+            appId: 'udfq2GSVldLgn2evBJVtK1oN-MdYXbMMI',
+            appKey: 'nY6L8Yz4e7TOXsWoB6vkKVB7',
+	    placeholder: 'Just a weblog...',
+	    visitor: true,
+	    recordIP: true
+        });
+    </script>
+</div>
+</main>
+<footer id="postamble" class="status">
+<div id="footer">
+  <div id="jinrishici-sentence">明月松间照，清泉石上流。</div>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<div class="footer-info">
+<p>本站由 <a href="/">半農</a> 维护，通过 <a href="https://www.gnu.org/software/emacs/" target="_blank">Emacs</a> 和 <a href="https://orgmode.org" target="_blank">Org</a> Mode 构建。</p>
+</div>
+</div>
+</footer>
+</body>
+</html>

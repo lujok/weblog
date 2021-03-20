@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2021-03-20 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emacs学习笔记</title>
+<meta name="generator" content="Org mode">
+<meta name="author" content="Lu Weiqiang">
+<meta name="description" content="Articles and notes for learning GNU Emacs and orgmode."
+>
+<meta name="keywords" content="emacs orgmode">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" href="/css/style.css" type="text/css" />
+<link rel="stylesheet" href="/css/org-webring.css" type="text/css" />
+<link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+<meta name="msapplication-TileImage" content="/images/ms-icon-144x144.png">
+<link rel="alternate" type="application/rss+xml" href="https://waychan.cn/blog/rss.xml" title="RSS feed">
+<meta property="og:title" content="Emacs学习笔记">
+<meta property="og:url" content="https://waychan.cn/note/tools/emacs-notes.html">
+<meta property="og:description" content="Articles and notes for learning GNU Emacs and orgmode.">
+<meta property="og:image" content="https://waychan.cn/">
+<meta property="og:type" content="nil">
+
+
+<meta property="twitter:title" content="Emacs学习笔记">
+<meta property="twitter:url" content="https://waychan.cn/note/tools/emacs-notes.html">
+<meta property="twitter:image" content="https://waychan.cn/">
+<meta property="twitter:description" content="Articles and notes for learning GNU Emacs and orgmode.">
+<meta property="twitter:card" content="summary">
+</head>
+<body>
+<header id="top" class="status">
+<nav class="menu">
+<label for="hamburger">&#9776;</label>
+<input type="checkbox" id="hamburger"/>
+<a accesskey="H" href="/">主頁</a>
+<a accesskey="B" href="/blog/">網誌</a>
+<a accesskey="N" href="/note/">筆記</a>
+<a accesskey="G" href="/guestbook.html">留言</a>
+<a accesskey="P" href="/about.html">關於</a>
+</nav>
+</header>
+<main id="content">
+<header>
+<h1 class="title">Emacs学习笔记</h1>
+</header>
+<section id="outline-container-org6672876" class="outline-2">
+<h2 id="org6672876">Emacs tutorial 学习笔记</h2>
+<div class="outline-text-2" id="text-org6672876">
+<p>
+Learn emacs from tutorial. 学习emacs从内置指南开始。
+</p>
+</div>
+
+<div id="outline-container-org73f240b" class="outline-3">
+<h3 id="org73f240b">useful commands 快捷键</h3>
+<div class="outline-text-3" id="text-org73f240b">
+<p>
+记录常用快捷键，C代表CTRL，M代表META/ALT。
+</p>
+</div>
+
+<div id="outline-container-org1037ee5" class="outline-4">
+<h4 id="org1037ee5">控制屏幕</h4>
+<div class="outline-text-4" id="text-org1037ee5">
+<p>
+C-v 下一屏
+M-v 上一屏
+C-l 清屏，以光标所在位置居中，再次按C-l，光标跳到屏幕顶端，接着再按C-l光标跳到屏幕底部
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfc3be9" class="outline-4">
+<h4 id="orgbfc3be9">控制光标</h4>
+<div class="outline-text-4" id="text-orgbfc3be9">
+<p>
+C-p 跳到上一行 Previous line
+C-b 倒退一个字 Backward
+C-f 向前一个字 Forward
+C-n 跳到下一行 Next line
+M-f 向前一个词
+M-b 倒退一个词
+C-a 移动到行首
+C-e 移动到行末
+M-a 移动到句首
+M-e 移动到句末
+M-&lt; 移动到文件开始处
+M-&gt; 移动到文件末尾处
+C-u + 数字 + 快捷键 重复后面“快捷键”次数（数字） 对C-v M-v无效
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb52e846" class="outline-4">
+<h4 id="orgb52e846">取消</h4>
+<div class="outline-text-4" id="text-orgb52e846">
+<p>
+C-g 停止或取消前次命令
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc53792d" class="outline-4">
+<h4 id="orgc53792d">窗口(Windows)</h4>
+<div class="outline-text-4" id="text-orgc53792d">
+<p>
+C-x 1 保留1个窗口（当前光标所在窗口），删除其他窗口
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfcce6f4" class="outline-4">
+<h4 id="orgfcce6f4">插入和删除</h4>
+<div class="outline-text-4" id="text-orgfcce6f4">
+<p>
+&lt;DEL&gt; 删除光标前一个字符
+C-d 删除光标后一个字符
+M-&lt;DEL&gt; 删除光标前的字符（以下四个均是kill，保留在剪切版，还能插入，类似cut）
+M-d 删除光标后的字符
+C-k 删除光标所在位置到行末
+M-k 删除光标所在位置到句末
+C-y 在光标处插入之前剪切版的内容（yank，类似paste）
+M-y 在光标处插入更早删除的内容
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga409efe" class="outline-4">
+<h4 id="orga409efe">撤销</h4>
+<div class="outline-text-4" id="text-orga409efe">
+<p>
+C-/ 撤销
+C-_ 同上
+C-x u 同上
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e87af5" class="outline-4">
+<h4 id="org1e87af5">文件</h4>
+<div class="outline-text-4" id="text-org1e87af5">
+<p>
+C-x C-f 文件名  打开文件，如果无该文件则新建
+C-x C-s 保存
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8239743" class="outline-4">
+<h4 id="org8239743">BUFFERS</h4>
+<div class="outline-text-4" id="text-org8239743">
+<p>
+C-x C-b 显示buffer列表
+C-x b buffer名称 &lt;Enter&gt; 进入buffer
+C-x s 保存多个buffer
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8739e70" class="outline-4">
+<h4 id="org8739e70">X command (extend)</h4>
+<div class="outline-text-4" id="text-org8739e70">
+<p>
+C-x 一个字符
+M-x 一个名字（命令）
+C-z suspends emacs
+M-x recover-this-file &lt;Return&gt; 恢复文件
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgdf1b948" class="outline-4">
+<h4 id="orgdf1b948">搜索</h4>
+<div class="outline-text-4" id="text-orgdf1b948">
+<p>
+C-s
+C-r
+</p>
+</div>
+</div>
+
+<div id="outline-container-org65800b5" class="outline-4">
+<h4 id="org65800b5">表格</h4>
+<div class="outline-text-4" id="text-org65800b5">
+<p>
+表格功能强大，下面是快捷键。目前发现问题是无法对齐，不知道导出html时是什么情况。
+</p>
+
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">快捷键</th>
+<th scope="col" class="org-left">描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">C-c l</td>
+<td class="org-left">创建表格</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">C-c C-c</td>
+<td class="org-left">重新调整表格缩进</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Tab</td>
+<td class="org-left">移动至下一个区域，必要时（行尾）创建一行</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">S-Tab</td>
+<td class="org-left">移动至上一个区域</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">S-Enter</td>
+<td class="org-left">移动至下一行，必要时（行尾）创建一行</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">M-Left/Right</td>
+<td class="org-left">移动列</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">M-Up/Down</td>
+<td class="org-left">移动行</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">M-S-Left/Right</td>
+<td class="org-left">删除/插入行</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">M-S-Up/Down</td>
+<td class="org-left">删除/插入列</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">C-c -</td>
+<td class="org-left">插入水平分割线</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer id="postamble" class="status">
+<div id="footer">
+  <div id="jinrishici-sentence">明月松间照，清泉石上流。</div>
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<div class="footer-info">
+<p>本站由 <a href="/">半農</a> 维护，通过 <a href="https://www.gnu.org/software/emacs/" target="_blank">Emacs</a> 和 <a href="https://orgmode.org" target="_blank">Org</a> Mode 构建。</p>
+</div>
+</div>
+</footer>
+</body>
+</html>
