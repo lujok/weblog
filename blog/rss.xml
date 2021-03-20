@@ -24,8 +24,8 @@
   A colection of website publishing with emacs and orgmode.
   记录使用 Org Mode 写博客的几次折腾过程，并不详细。]]></description>
   <language>en</language>
-  <pubDate>Sat, 20 Mar 2021 14:36:40 +0000</pubDate>
-  <lastBuildDate>Sat, 20 Mar 2021 14:36:40 +0000</lastBuildDate>
+  <pubDate>Sat, 20 Mar 2021 14:57:15 +0000</pubDate>
+  <lastBuildDate>Sat, 20 Mar 2021 14:57:15 +0000</lastBuildDate>
   <generator>Emacs 27.1 Org-mode 9.4.4</generator>
   <webMaster>hi@luweiqiang.com (桑下居)</webMaster>
   <image>
@@ -74,72 +74,72 @@
     杭菊，又称甘菊，菊科，多年生草本。每年秋冬间枯萎之后，农人们会把茎都割起收好当柴火，把根留田垄里。来年四月清明前后，幼苗长得差不多高了，农人们开始一株株拔起来，在新地田垄里种好，然后像照顾孩子一样打理菊田，直到杭菊花开，采摘完毕，才算心安。
     </p>
 
-    <div id="outline-container-org3bbf060" class="outline-3">
-    <h3 id="org3bbf060">选苗</h3>
-    <div class="outline-text-3" id="text-org3bbf060">
+    <div id="outline-container-orge067958" class="outline-3">
+    <h3 id="orge067958">选苗</h3>
+    <div class="outline-text-3" id="text-orge067958">
     <p>
     清明前后，看着菊苗长势很好，就开始一株株拔起来备种，当然是选叶盛茎粗的，手拔，往往会把根拔断了，关系不大，曾经苗少的时候，一株菊苗当两株用，中间对半剪，有根的种没根的插扦，成活率也不低。
     </p>
     </div>
     </div>
 
-    <div id="outline-container-orgb0d2131" class="outline-3">
-    <h3 id="orgb0d2131">种菊</h3>
-    <div class="outline-text-3" id="text-orgb0d2131">
+    <div id="outline-container-org19e2ba5" class="outline-3">
+    <h3 id="org19e2ba5">种菊</h3>
+    <div class="outline-text-3" id="text-org19e2ba5">
     <p>
     种菊有讲究。田需要先分垄，每垄宽一到两米，然后每垄的中间用锄头整出一条不深的小沟，把菊苗的根放小沟中，每株间距30公分到半米，放好后小沟统一用泥填平，菊苗根部微微踩实。儿时，无论是锄沟、放苗、填土、踩实，我都挺想做，抢着做，如今想来，算是另类的游戏了。
     </p>
     </div>
     </div>
 
-    <div id="outline-container-orge8cb323" class="outline-3">
-    <h3 id="orge8cb323">压苗</h3>
-    <div class="outline-text-3" id="text-orge8cb323">
+    <div id="outline-container-org47e307a" class="outline-3">
+    <h3 id="org47e307a">压苗</h3>
+    <div class="outline-text-3" id="text-org47e307a">
     <p>
     种好后浇水，认真照看，一两月后，菊苗长得很高了，必须压苗。压苗是个技术活，把菊苗轻轻压下，选好方向，要通盘考虑整个田垄的生长空间，然后放一块泥在菊苗中间部分的茎上，让其自然长出根须。这也是个工夫活，很花时间。压苗后，原本只有一条菊苗的田垄，变成了一片菊苗，等待时间让其长成菊海。这活儿时很少做，没耐心，太花力气，懒。
     </p>
     </div>
     </div>
 
-    <div id="outline-container-org0939610" class="outline-3">
-    <h3 id="org0939610">去头</h3>
-    <div class="outline-text-3" id="text-org0939610">
+    <div id="outline-container-orga659224" class="outline-3">
+    <h3 id="orga659224">去头</h3>
+    <div class="outline-text-3" id="text-orga659224">
     <p>
     压苗后，菊株又长了，茎上可能已分出好多小苗，大部分在阳光雨水的滋养下长势喜人。要及时去头，剪掉菊苗最上部分的嫩枝，以便更多地开枝散叶，让菊苗长满整个田垄。又是个精细活，要会分辨哪些苗可去头，哪些该留着，而且趴着背，拿剪刀剪，很累人。剪下来的菊苗小枝往往带回家里给湖羊吃。
     </p>
     </div>
     </div>
 
-    <div id="outline-container-orgbf3d22f" class="outline-3">
-    <h3 id="orgbf3d22f">除草</h3>
-    <div class="outline-text-3" id="text-orgbf3d22f">
+    <div id="outline-container-org56b7adf" class="outline-3">
+    <h3 id="org56b7adf">除草</h3>
+    <div class="outline-text-3" id="text-org56b7adf">
     <p>
     菊田里最怕的是长草，杂草很容易长，长得又快，需要不间断地除草。割草给湖羊吃，是我小时候的家常便饭，但我就不喜欢往菊田里除草，因为如果用镰刀割，一不小心便把菊苗给残害了。菊田中，都是手艺活，需要精心打理。
     </p>
     </div>
     </div>
 
-    <div id="outline-container-org1f1e4de" class="outline-3">
-    <h3 id="org1f1e4de">采菊</h3>
-    <div class="outline-text-3" id="text-org1f1e4de">
+    <div id="outline-container-org2c06a36" class="outline-3">
+    <h3 id="org2c06a36">采菊</h3>
+    <div class="outline-text-3" id="text-org2c06a36">
     <p>
     到了十一月，秋风吹来，菊花盛开了，白茫茫花海一片，颇为壮美，就是采菊的时刻。对农人来说，采菊可见不了南山，每天趴在地里，不说腰酸背痛，那是逞强。但小孩子不一样，奶奶常说「小人没腰，不会疼」，那时候，我从来不腰酸不腰疼，对奶奶的话深信不疑。那个时候，似乎菊花开得晚，采着采着，霜降了，经霜后的菊花，依然傲立，但花朵会变紫，蒸出来的菊饼会变黑，无论模样还是质量都变差，所以采菊是跟时间赛跑，都是在高强度劳作下进行的。
     </p>
     </div>
     </div>
 
-    <div id="outline-container-orgabfa705" class="outline-3">
-    <h3 id="orgabfa705">蒸菊</h3>
-    <div class="outline-text-3" id="text-orgabfa705">
+    <div id="outline-container-org4c563b4" class="outline-3">
+    <h3 id="org4c563b4">蒸菊</h3>
+    <div class="outline-text-3" id="text-org4c563b4">
     <p>
     采回的菊花先放匾里或者干脆地上，等晚上蒸菊。锅里起一锅水，放上蒸架，家里有传下来的一个个直径二三十公分高五到十公分的小蒸笼，底部精选朵大蕊好的菊朵，下面朝下放平一圈，然后随意放上花朵轻轻震实，最上面再精选好的花朵放一层，花蕊朝上，为的当然是蒸出的菊饼长相可人，能卖个高价。不多久，整个屋子都是菊香，清新而久远。当然，于儿时的我来说，我是最喜烧火的，在灶头拿老桑树的根枝，一根根放灶里，看火苗旺盛，熏得脸红红，而且，我可以拿一个番薯放里面，拿柴灰覆好，等烧一段时间闻到香味了，取出来，虽然外层全是焦灰，里面的番薯，香嫩至极，这是那段采菊时光的别样馈赠。
     </p>
     </div>
     </div>
 
-    <div id="outline-container-orgfa6ec7f" class="outline-3">
-    <h3 id="orgfa6ec7f">晒菊</h3>
-    <div class="outline-text-3" id="text-orgfa6ec7f">
+    <div id="outline-container-org6c1c433" class="outline-3">
+    <h3 id="org6c1c433">晒菊</h3>
+    <div class="outline-text-3" id="text-org6c1c433">
     <p>
     乡下少有烘干设备，所以蒸好的菊花，每天都需要拿出来晒太阳，直到晒干。菊花蒸好，是直接倒在用芦苇枝和麦杆做的薕铺上的，宽大概一米多，长可以好几米，底下放着两根竹子，竹子和铺子交接的地方用绳子绑好防止移动。每次蒸，大概能放一铺，然后第二天一早，就抬出屋外放场地上，北侧是条凳，南侧直接放地上，朝南倾斜也是为更好的光照。刚蒸出来的菊花全是水分，一铺子很重，儿时的我可抬不动，每次都是父母抬，直到晒得差不多了，就由我来帮忙。到了初中那会，这活就交给我了，放学回家的重要事，便是将铺子抬进屋，有时候父母很晚回家，轻的铺子自己也就单人拖进屋了。
     </p>
@@ -198,9 +198,9 @@
   2020年影响至深的便是遇上了新冠。作为大时代中微不足道的小民，真真切切地感受了一波洪流。
   </p>
 
-  <div id="outline-container-org105a29a" class="outline-3">
-  <h3 id="org105a29a">工作</h3>
-  <div class="outline-text-3" id="text-org105a29a">
+  <div id="outline-container-org45fd3c5" class="outline-3">
+  <h3 id="org45fd3c5">工作</h3>
+  <div class="outline-text-3" id="text-org45fd3c5">
   <p>
   总体而言，没什么起色。个人没有向上的心与能力，组织和领导也不会给多少机会，能保证收入已经是万事大吉了。2020年两级领导换人，整体工作风格都有较大调整，加上一些个大环境的影响，琐碎的事情多了不少。
   </p>
@@ -223,17 +223,17 @@
   </div>
   </div>
 
-  <div id="outline-container-orga452824" class="outline-3">
-  <h3 id="orga452824">生活</h3>
-  <div class="outline-text-3" id="text-orga452824">
+  <div id="outline-container-org0f83407" class="outline-3">
+  <h3 id="org0f83407">生活</h3>
+  <div class="outline-text-3" id="text-org0f83407">
   <p>
   生活还是给了很多欢乐与动力的。
   </p>
   </div>
 
-  <div id="outline-container-org2034cd2" class="outline-4">
-  <h4 id="org2034cd2">小棉袄</h4>
-  <div class="outline-text-4" id="text-org2034cd2">
+  <div id="outline-container-orgc5af818" class="outline-4">
+  <h4 id="orgc5af818">小棉袄</h4>
+  <div class="outline-text-4" id="text-orgc5af818">
   <p>
   4月，又一个小生命来到身边，我的小棉袄、小情人。好在那时疫情已逐步好转，住院期间未遇到什么困难。请了几天假，每天家与医院来回送饭菜，乐此不疲。出生近8斤，一个月12斤，半年近20斤，长得挺快的，胖胖的小脸看不厌。
   </p>
@@ -244,9 +244,9 @@
   </div>
   </div>
 
-  <div id="outline-container-org66e1a96" class="outline-4">
-  <h4 id="org66e1a96">小学生</h4>
-  <div class="outline-text-4" id="text-org66e1a96">
+  <div id="outline-container-orgb504204" class="outline-4">
+  <h4 id="orgb504204">小学生</h4>
+  <div class="outline-text-4" id="text-orgb504204">
   <p>
   老大下半年上一年级了，又多了个任务，早上送学校。上班比较早，每天早上叫他起床，偶尔还监督洗脸刷牙吃早饭。动作超级墨迹，吃个早饭不催起码半小时，挺无奈也火大。
   </p>
@@ -261,9 +261,9 @@
   </div>
   </div>
 
-  <div id="outline-container-org39aa22b" class="outline-4">
-  <h4 id="org39aa22b">太极拳</h4>
-  <div class="outline-text-4" id="text-org39aa22b">
+  <div id="outline-container-orgf59fa9a" class="outline-4">
+  <h4 id="orgf59fa9a">太极拳</h4>
+  <div class="outline-text-4" id="text-orgf59fa9a">
   <p>
   2月初，感慨于新冠疫情下生命的脆弱，人身的可贵，重拾太极拳练习。连续坚持了三个多月，算是基本达到百日筑基。
   </p>
@@ -282,9 +282,9 @@
   </div>
   </div>
 
-  <div id="outline-container-org3cd1a51" class="outline-4">
-  <h4 id="org3cd1a51">学习</h4>
-  <div class="outline-text-4" id="text-org3cd1a51">
+  <div id="outline-container-org37b31bf" class="outline-4">
+  <h4 id="org37b31bf">学习</h4>
+  <div class="outline-text-4" id="text-org37b31bf">
   <p>
   毫无疑问，这是个终生学习的时代。很多人消费着大众的焦虑，强调「学习」，然而真正能「学而习之」的又有多少。我也有不少焦虑，经济的、技能的、未来发展的，也被割过不少韭菜。
   </p>
@@ -308,26 +308,26 @@
   </div>
   </div>
 
-  <div id="outline-container-orgdaee777" class="outline-3">
-  <h3 id="orgdaee777">健康</h3>
-  <div class="outline-text-3" id="text-orgdaee777">
+  <div id="outline-container-orgd9e6b46" class="outline-3">
+  <h3 id="orgd9e6b46">健康</h3>
+  <div class="outline-text-3" id="text-orgd9e6b46">
   <p>
   从内、外两方面入手。内者，勤练功，太极拳是也；外者，勤习医是也。
   </p>
   </div>
 
-  <div id="outline-container-org2efb2e0" class="outline-4">
-  <h4 id="org2efb2e0">家庭中医</h4>
-  <div class="outline-text-4" id="text-org2efb2e0">
+  <div id="outline-container-org61de808" class="outline-4">
+  <h4 id="org61de808">家庭中医</h4>
+  <div class="outline-text-4" id="text-org61de808">
   <p>
   回首2020，新冠疫情影响深远，也让我重新审视「健康」这个人生关键词。道源先生多年来倡「家庭中医」，呼吁「一人学医，呵护全家」，用「简便廉验」的方式处理家庭常见病。我随先生有年，然仅是服膺其言而未践其行，于是遇小儿发烧便焦虑不安，见父母感冒仍手足无措，诚可恨恨也。所谓「实践出真知」、「行为改变认知」，新的一年，决心将更多业余时间花到「健康」技能的学习实践上，希望来年回顾时略有所得。古人云「上以疗君亲之疾，下以救贫贱之厄，中以保身长全」，我虽无此天赋才情，若能在未来的岁月里保得父母妻儿一时安康，也可算不负此生了。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-orgb6122bb" class="outline-4">
-  <h4 id="orgb6122bb">习拳</h4>
-  <div class="outline-text-4" id="text-orgb6122bb">
+  <div id="outline-container-org2497b71" class="outline-4">
+  <h4 id="org2497b71">习拳</h4>
+  <div class="outline-text-4" id="text-org2497b71">
   <p>
   回首这几年，做的最好的选择之一便是2016年五一随邓老师、戴老师学习一周，学了一套96式武式拳，一套17式易筋经。正是这两项，伴我走过了后来的身心低谷期。2020年新冠来袭，让人感叹人身脆弱，健康可贵。2月重拾习拳至今，于方寸之地举手投足之间，慢慢体会身体结构的细微变化，虽有很多不明所以，依然不断有欣喜。最近看到「身体的立体网络结构」这个概念，得知人体是一个由骨肉筋膜皮肤等组成的动态张拉结构网络，习拳就变得愈来愈有趣。日积跬步，以成千里，新的一年继续以己为媒，探索人身的奥秘。
   </p>
@@ -335,18 +335,18 @@
   </div>
   </div>
 
-  <div id="outline-container-orgb5d0058" class="outline-3">
-  <h3 id="orgb5d0058">家人</h3>
-  <div class="outline-text-3" id="text-orgb5d0058">
+  <div id="outline-container-orgc015f44" class="outline-3">
+  <h3 id="orgc015f44">家人</h3>
+  <div class="outline-text-3" id="text-orgc015f44">
   <p>
   年轻时工作狂，经常加班并乐此不疲。人到中年，才明白其实有些东西是可贵的，需要珍惜的，而有些却是锦上添花的，没有也影响不了大局。家人需要陪伴，多陪着走向户外，亲近大自然，享受天伦的美好、自然的美妙。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org7bfe270" class="outline-3">
-  <h3 id="org7bfe270">总结</h3>
-  <div class="outline-text-3" id="text-org7bfe270">
+  <div id="outline-container-org312c857" class="outline-3">
+  <h3 id="org312c857">总结</h3>
+  <div class="outline-text-3" id="text-org312c857">
   <p>
   越长大越沉默，不是哀莫大于心死，是摸爬滚打中渐渐明白自己能力的边界，有些东西放弃了。自己心里有把秤，作太多的计划，不如一项踏实的行动。
   </p>
@@ -722,68 +722,68 @@
   A colection of sites/blogs building with emacs and orgmode.
   </p>
 
-  <div id="outline-container-org786f43c" class="outline-3">
-  <h3 id="org786f43c">英语 English</h3>
-  <div class="outline-text-3" id="text-org786f43c">
+  <div id="outline-container-org4f8f6a5" class="outline-3">
+  <h3 id="org4f8f6a5">英语 English</h3>
+  <div class="outline-text-3" id="text-org4f8f6a5">
   </div>
 
-  <div id="outline-container-org51ebd92" class="outline-4">
-  <h4 id="org51ebd92">Nicolas Petton(nicolas.petton.fr)</h4>
-  <div class="outline-text-4" id="text-org51ebd92">
+  <div id="outline-container-org3891d29" class="outline-4">
+  <h4 id="org3891d29">Nicolas Petton(nicolas.petton.fr)</h4>
+  <div class="outline-text-4" id="text-org3891d29">
   <p>
   <a href="https://www.gnu.org/software/emacs/">GNU Emacs</a>目前的主页出自他的手，他的主页正是我所欣赏的。最初搜索到的使用orgmode的org-publish导出html生成静态网站的正是他「<a href="https://nicolas.petton.fr/blog/blogging-with-org-mode.html">Blogging with orgmode</a>」。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org786da28" class="outline-4">
-  <h4 id="org786da28">Stig Brautaset(www.brautaset.org)</h4>
-  <div class="outline-text-4" id="text-org786da28">
+  <div id="outline-container-org75231cc" class="outline-4">
+  <h4 id="org75231cc">Stig Brautaset(www.brautaset.org)</h4>
+  <div class="outline-text-4" id="text-org75231cc">
   <p>
   简洁而明快的主页，是我的想达到的，可惜他的说明看不懂。这是他关于orgmode构建博客的博文：<a href="https://www.brautaset.org/articles/2017/blogging-with-org-mode.html">Blogging with Org mode</a>。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-orgf71c9a7" class="outline-4">
-  <h4 id="orgf71c9a7">bastibe.de</h4>
-  <div class="outline-text-4" id="text-orgf71c9a7">
+  <div id="outline-container-orgb67a787" class="outline-4">
+  <h4 id="orgb67a787">bastibe.de</h4>
+  <div class="outline-text-4" id="text-orgb67a787">
   <p>
   值得参考：<a href="https://bastibe.de/2013-11-13-blogging-with-emacs.html">Blogging with Emacs</a>
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org3591e8a" class="outline-4">
-  <h4 id="org3591e8a">Rasmus Pank Roulund(pank.eu)</h4>
-  <div class="outline-text-4" id="text-org3591e8a">
+  <div id="outline-container-org0126611" class="outline-4">
+  <h4 id="org0126611">Rasmus Pank Roulund(pank.eu)</h4>
+  <div class="outline-text-4" id="text-org0126611">
   <p>
   他的博文详细说明了使用orgmode和gitlab ci自动构建博客的过程，还给出了示例，gitlab上orgmode的page也是以他的示例为原型的。博文：<a href="https://pank.eu/blog/blog-setup.html">Blogging with Org</a>。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org0e78a19" class="outline-4">
-  <h4 id="org0e78a19">loomcom.com</h4>
-  <div class="outline-text-4" id="text-org0e78a19">
+  <div id="outline-container-org9254a30" class="outline-4">
+  <h4 id="org9254a30">loomcom.com</h4>
+  <div class="outline-text-4" id="text-org9254a30">
   <p>
   作者对博客页作了很多hack，包括分页（pagination），很实用，可惜我仍然没看懂。参考：<a href="https://loomcom.com/blog/0110_emacs_blogging_for_fun_and_profit.html">Emacs Blogging for Fun and Profit</a>。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org5bd8c55" class="outline-4">
-  <h4 id="org5bd8c55">ogbe.net</h4>
-  <div class="outline-text-4" id="text-org5bd8c55">
+  <div id="outline-container-org205e4be" class="outline-4">
+  <h4 id="org205e4be">ogbe.net</h4>
+  <div class="outline-text-4" id="text-org205e4be">
   <p>
   值得参考，也被很多人引用的一篇介绍博文：<a href="https://ogbe.net/blog/blogging_with_org.html">Blogging using org-mode (and nothing else)</a>。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org89fdaf5" class="outline-4">
-  <h4 id="org89fdaf5">其他可参考的</h4>
-  <div class="outline-text-4" id="text-org89fdaf5">
+  <div id="outline-container-orgf018e78" class="outline-4">
+  <h4 id="orgf018e78">其他可参考的</h4>
+  <div class="outline-text-4" id="text-orgf018e78">
   <p>
   <a href="https://caolan.org/dotfiles/emacs.html">caolan.org</a>
   <a href="https://justin.abrah.ms/emacs/orgmode_static_site_generator.html">orgmode static site genterator</a>
@@ -802,86 +802,86 @@
   </div>
   </div>
 
-  <div id="outline-container-org1b9b378" class="outline-3">
-  <h3 id="org1b9b378">中文</h3>
-  <div class="outline-text-3" id="text-org1b9b378">
+  <div id="outline-container-org8786b4f" class="outline-3">
+  <h3 id="org8786b4f">中文</h3>
+  <div class="outline-text-3" id="text-org8786b4f">
   </div>
 
-  <div id="outline-container-org7b09faa" class="outline-4">
-  <h4 id="org7b09faa">An Amateur Programmer&rsquo;s Blogs</h4>
-  <div class="outline-text-4" id="text-org7b09faa">
+  <div id="outline-container-orgaff89ba" class="outline-4">
+  <h4 id="orgaff89ba">An Amateur Programmer&rsquo;s Blogs</h4>
+  <div class="outline-text-4" id="text-orgaff89ba">
   <p>
   看这个博客会知道什么叫积累，简简单单却厚重无比。<a href="https://dirtysalt.github.io/html/blogs.html">An Amateur Programmer&rsquo;s Blogs</a>
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org325a231" class="outline-4">
-  <h4 id="org325a231">ZCL.SPACE</h4>
-  <div class="outline-text-4" id="text-org325a231">
+  <div id="outline-container-org159613b" class="outline-4">
+  <h4 id="org159613b">ZCL.SPACE</h4>
+  <div class="outline-text-4" id="text-org159613b">
   <p>
   通信博士，很多专业的内容。<a href="https://zlearning.netlify.com">ZCL.SPACE</a>
   </p>
   </div>
   </div>
 
-  <div id="outline-container-orgc8e7268" class="outline-4">
-  <h4 id="orgc8e7268">cig01 Home Page</h4>
-  <div class="outline-text-4" id="text-orgc8e7268">
+  <div id="outline-container-org39a17d4" class="outline-4">
+  <h4 id="org39a17d4">cig01 Home Page</h4>
+  <div class="outline-text-4" id="text-org39a17d4">
   <p>
   好读书，肯下功夫，不仅读，还做笔记。专业人士。<a href="http://aandds.com/archives.html">Archives</a>
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org3242f14" class="outline-4">
-  <h4 id="org3242f14">小过的部落格</h4>
-  <div class="outline-text-4" id="text-org3242f14">
+  <div id="outline-container-orgd9fe2fc" class="outline-4">
+  <h4 id="orgd9fe2fc">小过的部落格</h4>
+  <div class="outline-text-4" id="text-orgd9fe2fc">
   <p>
   风格简洁，内容丰富。<a href="https://xiaoguo.net/">xiaoguo.net</a>
   </p>
   </div>
   </div>
 
-  <div id="outline-container-orgdcd6425" class="outline-4">
-  <h4 id="orgdcd6425">V for Vendetta</h4>
-  <div class="outline-text-4" id="text-orgdcd6425">
+  <div id="outline-container-org8080b98" class="outline-4">
+  <h4 id="org8080b98">V for Vendetta</h4>
+  <div class="outline-text-4" id="text-org8080b98">
   <p>
   有一篇介绍博文：<a href="http://0x100.club/wiki_emacs/blog-test.html">Blog 的搭建及其特性</a>
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org0b23206" class="outline-4">
-  <h4 id="org0b23206">lu4nx@wiki(shellcodes.org)</h4>
-  <div class="outline-text-4" id="text-org0b23206">
+  <div id="outline-container-org707874a" class="outline-4">
+  <h4 id="org707874a">lu4nx@wiki(shellcodes.org)</h4>
+  <div class="outline-text-4" id="text-org707874a">
   <p>
   这篇博文将如何使用orgmode生成博客说明得很清楚了：<a href="https://www.shellcodes.org/Emacs/%E4%BD%BF%E7%94%A8Org-Mode%E7%94%9F%E6%88%90%E5%8D%9A%E5%AE%A2.html">使用 Org-Mode 生成博客</a>。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org4c110c7" class="outline-4">
-  <h4 id="org4c110c7">编码者言</h4>
-  <div class="outline-text-4" id="text-org4c110c7">
+  <div id="outline-container-org52191aa" class="outline-4">
+  <h4 id="org52191aa">编码者言</h4>
+  <div class="outline-text-4" id="text-org52191aa">
   <p>
   关于orgmode搭建静态博客的介绍：<a href="https://yuyang0.github.io/articles/org-mode-dropbox-blog.html">使用org-mode与dropbox搭建静态博客</a>。
   </p>
   </div>
   </div>
 
-  <div id="outline-container-org5393a16" class="outline-4">
-  <h4 id="org5393a16">stardiviner</h4>
-  <div class="outline-text-4" id="text-org5393a16">
+  <div id="outline-container-orgac7b586" class="outline-4">
+  <h4 id="orgac7b586">stardiviner</h4>
+  <div class="outline-text-4" id="text-orgac7b586">
   <p>
   <a href="https://stardiviner.github.io/">stardiviner&rsquo;s index page</a> 
   </p>
   </div>
   </div>
 
-  <div id="outline-container-orgfedc52e" class="outline-4">
-  <h4 id="orgfedc52e">Mark Wallace&rsquo;s Wiki</h4>
-  <div class="outline-text-4" id="text-orgfedc52e">
+  <div id="outline-container-orgec76d3b" class="outline-4">
+  <h4 id="orgec76d3b">Mark Wallace&rsquo;s Wiki</h4>
+  <div class="outline-text-4" id="text-orgec76d3b">
   <p>
   挺喜欢这个WIKI的简洁风格的，orgmode的确是搭建WIKI的利器。可以参考其中的文章：<a href="http://lotabout.me/orgwiki/how_wiki_is_built.html">本站是如何搭建的</a>。
   </p>
