@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2021-03-20 -->
+<!-- 2021-03-21 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>使用 Org Mode 写博客</title>
@@ -68,13 +68,13 @@
 此次，立志好好學習。使用 Emacs 和 Org Mode 搭建了个人页面，算是从头开始。
 </p>
 
-<section id="outline-container-org1551f91" class="outline-2">
-<h2 id="org1551f91">为什么这么折腾</h2>
-<div class="outline-text-2" id="text-org1551f91">
+<section id="outline-container-orga948c07" class="outline-2">
+<h2 id="orga948c07">为什么这么折腾</h2>
+<div class="outline-text-2" id="text-orga948c07">
 </div>
-<div id="outline-container-org2f04bc3" class="outline-3">
-<h3 id="org2f04bc3">目标不明确</h3>
-<div class="outline-text-3" id="text-org2f04bc3">
+<div id="outline-container-orga2c894e" class="outline-3">
+<h3 id="orga2c894e">目标不明确</h3>
+<div class="outline-text-3" id="text-orga2c894e">
 <ol class="org-ol">
 <li>心未定。虽然知道博客有助于自身进步，从很多人的经历中，都可以看出其思想脉络和心路历程。但知易行难，心未定，则几经周折，不知所措。</li>
 <li>行不恒。持之以恒实在是件难事，虽然曾经坚持了两三年的 Typecho，后来生活中的各种忙碌之后，便也能不了了之。</li>
@@ -82,9 +82,9 @@
 </div>
 </div>
 
-<div id="outline-container-org7783420" class="outline-3">
-<h3 id="org7783420">此次重启之原因</h3>
-<div class="outline-text-3" id="text-org7783420">
+<div id="outline-container-orgae3bc4d" class="outline-3">
+<h3 id="orgae3bc4d">此次重启之原因</h3>
+<div class="outline-text-3" id="text-orgae3bc4d">
 <p>
 实在是因为无论工作还是生活中，从日常阅读观察中，发现自身越来越不及这个时代的变迁，不及专业的能力，亦难以应对生活中的难处。不学习不足以应世事之变，不积累不足以成生活之美。
 </p>
@@ -101,9 +101,9 @@ Emacs 被称为神之编辑器，Org Mode 是其内建的功能强大的管理�
 </div>
 </section>
 
-<section id="outline-container-orgae2142c" class="outline-2">
-<h2 id="orgae2142c">Org project 搭建</h2>
-<div class="outline-text-2" id="text-orgae2142c">
+<section id="outline-container-org2fd8ba4" class="outline-2">
+<h2 id="org2fd8ba4">Org project 搭建</h2>
+<div class="outline-text-2" id="text-org2fd8ba4">
 <p>
 具体过程不再赘述，参考资料如下：
 </p>
@@ -114,9 +114,9 @@ Emacs 被称为神之编辑器，Org Mode 是其内建的功能强大的管理�
 </ul>
 </div>
 
-<div id="outline-container-org356cf6a" class="outline-3">
-<h3 id="org356cf6a">Deployment 部署</h3>
-<div class="outline-text-3" id="text-org356cf6a">
+<div id="outline-container-orgc19116b" class="outline-3">
+<h3 id="orgc19116b">Deployment 部署</h3>
+<div class="outline-text-3" id="text-orgc19116b">
 <p>
 起初直接在本地使用 M-x org-publish-all 导出 html 文件后 git push 至 Github，使用 Github pages。后来感觉麻烦，搜索之后找到 Gitlab pages，能直接自动编译后部署。Gitlab的好处是测试方便，缺点是速度有些慢，绑定独立域名有些欠缺。最后，找到 Netlify，与 Gitlab 一样可以自动编译部署，还自带CDN，速度快，绑定独立域名也方便，网上推荐说点几下就搞定，的确如此。
 </p>
@@ -124,9 +124,9 @@ Emacs 被称为神之编辑器，Org Mode 是其内建的功能强大的管理�
 </div>
 </section>
 
-<section id="outline-container-org926f9cd" class="outline-2">
-<h2 id="org926f9cd">UPDATE</h2>
-<div class="outline-text-2" id="text-org926f9cd">
+<section id="outline-container-org54855e2" class="outline-2">
+<h2 id="org54855e2">UPDATE</h2>
+<div class="outline-text-2" id="text-org54855e2">
 <p>
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-02-27 Sat&gt;</span></span>
 </p>
@@ -143,7 +143,7 @@ Emacs 被称为神之编辑器，Org Mode 是其内建的功能强大的管理�
 <li>博客内容集中在 content 文件夹下，与其他如 image, CSS 之类文件分开，看起来比较简单些，目前目录结构类似如下：</li>
 </ul>
 
-<pre class="example" id="orgfe8f448">
+<pre class="example" id="org5600b9a">
 ├── README.org
 ├── assets
 │   ├── css/
@@ -172,9 +172,9 @@ Emacs 被称为神之编辑器，Org Mode 是其内建的功能强大的管理�
 </p>
 </div>
 
-<div id="outline-container-orgcc5bc30" class="outline-3">
-<h3 id="orgcc5bc30">Export</h3>
-<div class="outline-text-3" id="text-orgcc5bc30">
+<div id="outline-container-org7114c90" class="outline-3">
+<h3 id="org7114c90">Export</h3>
+<div class="outline-text-3" id="text-org7114c90">
 <p>
 <i>publish.el</i> 文件是用来导出 html 的，详见<a href="https://github.com/lujok/waychan/blob/master/publish.el">这里</a>。
 </p>

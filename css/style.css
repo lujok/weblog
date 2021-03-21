@@ -2,7 +2,7 @@
     --sys-sans: -apple-system, BlinkMacSystemFont, "Helvetica Neue";
     --cjk-sans: "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "WenQuanYi Micro Hei";
     --font-size: 18px;
-    --main-width: 75%;
+    --main-width: 880px;
     --scale: 0.95;
     --pad-width: 95%;
     --pad-scale: 0.85;
@@ -280,6 +280,10 @@ h2#discus {
 }
 
 @media (max-width: 600px) {
+    h1 { font-size: 1.6em;}
+    h2 { font-size: 1.4em;}
+    h3 { font-size: 1.3em;}
+    h4, h5, h6 { font-size: 1.2em;}
     #header {  padding-right: 10px;
 	       padding-left: 10px;}
     #content { padding-right: 10px;
